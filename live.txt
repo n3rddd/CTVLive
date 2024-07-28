@@ -4266,6 +4266,42 @@ CCTV-17农业农村,http://tvbox6.icu/tv/zb/cqcucc.php?id=16$雷蒙影视•IPV4
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$雷蒙影视•IPV4『线路5』
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$雷蒙影视•IPV4『线路6』
 CCTV-17农业农村,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM$雷蒙影视•IPV6『线路7』
+CCTV 1 综合,https://tv.iill.top/migu/cctv1$雷蒙影视•IPV4『线路1』
+CCTV 1 综合,https://tv.iill.top/tv/cctv1$雷蒙影视•IPV4『线路2』
+CCTV 2 财经,https://tv.iill.top/migu/cctv2$雷蒙影视•IPV4『线路1』
+CCTV 2 财经,https://tv.iill.top/tv/cctv2$雷蒙影视•IPV4『线路2』
+CCTV 3 综艺,https://tv.iill.top/migu/cctv3$雷蒙影视•IPV4『线路1』
+CCTV 3 综艺,https://tv.iill.top/tv/cctv3$雷蒙影视•IPV4『线路2』
+CCTV 4 中文国际,https://tv.iill.top/migu/cctv4$雷蒙影视•IPV4『线路1』
+CCTV 4 中文国际,https://tv.iill.top/tv/cctv4$雷蒙影视•IPV4『线路2』
+CCTV 4 中文国际·美洲,https://tv.iill.top/migu/cctv4m$雷蒙影视•IPV4
+CCTV 4 中文国际·欧洲,https://tv.iill.top/migu/cctv4o$雷蒙影视•IPV4
+CCTV 5 体育,https://tv.iill.top/migu/cctv5$雷蒙影视•IPV4『线路1』
+CCTV 5 体育,https://tv.iill.top/tv/cctv5$雷蒙影视•IPV4『线路2』
+CCTV 5+ 体育赛事,https://tv.iill.top/migu/cctv5p$雷蒙影视•IPV4『线路1』
+CCTV 5+ 体育赛事,https://tv.iill.top/tv/cctv5p$雷蒙影视•IPV4『线路2』
+CCTV 6 电影,https://tv.iill.top/migu/cctv6$雷蒙影视•IPV4『线路1』
+CCTV 6 电影,https://tv.iill.top/tv/cctv6$雷蒙影视•IPV4『线路2』
+CCTV 7 国防军事,https://tv.iill.top/migu/cctv7$雷蒙影视•IPV4『线路1』
+CCTV 7 国防军事,https://tv.iill.top/tv/cctv7$雷蒙影视•IPV4『线路2』
+CCTV 8 电视剧,https://tv.iill.top/migu/cctv8$雷蒙影视•IPV4『线路1』
+CCTV 8 电视剧,https://tv.iill.top/tv/cctv8$雷蒙影视•IPV4『线路2』
+CCTV 9 纪录,https://tv.iill.top/migu/cctv9$雷蒙影视•IPV4『线路1』
+CCTV 9 纪录,https://tv.iill.top/tv/cctv9$雷蒙影视•IPV4『线路2』
+CCTV 10 科教,https://tv.iill.top/migu/cctv10$雷蒙影视•IPV4『线路1』
+CCTV 10 科教,https://tv.iill.top/tv/cctv10$雷蒙影视•IPV4『线路2』
+CCTV 11 戏曲,https://tv.iill.top/migu/cctv11$雷蒙影视•IPV4『线路1』
+CCTV 11 戏曲,https://tv.iill.top/tv/cctv11$雷蒙影视•IPV4『线路2』
+CCTV 12 社会与法,https://tv.iill.top/migu/cctv12$雷蒙影视•IPV4『线路1』
+CCTV 12 社会与法,https://tv.iill.top/tv/cctv12$雷蒙影视•IPV4『线路2』
+CCTV 13 新闻,https://tv.iill.top/migu/cctv13$雷蒙影视•IPV4『线路1』
+CCTV 13 新闻,https://tv.iill.top/tv/cctv13$雷蒙影视•IPV4『线路2』
+CCTV 14 少儿,https://tv.iill.top/migu/cctv14$雷蒙影视•IPV4『线路1』
+CCTV 14 少儿,https://tv.iill.top/tv/cctv14$雷蒙影视•IPV4『线路2』
+CCTV 15 音乐,https://tv.iill.top/migu/cctv15$雷蒙影视•IPV4『线路1』
+CCTV 15 音乐,https://tv.iill.top/tv/cctv15$雷蒙影视•IPV4『线路2』
+CCTV 17 农村农业,https://tv.iill.top/migu/cctv17$雷蒙影视•IPV4『线路1』
+CCTV 17 农村农业,https://tv.iill.top/tv/cctv17$雷蒙影视•IPV4『线路2』
 咪咕直播,#genre#
 咪咕直播4K Ⅰ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$雷蒙影视•IPV4
 咪咕直播4K Ⅱ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$雷蒙影视•IPV4『线路1』
