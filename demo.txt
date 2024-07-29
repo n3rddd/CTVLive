@@ -1,4 +1,4 @@
-央视频道,#genre#
+🇨🇳央视,#genre#
 CCTV1,
 CCTV2,
 CCTV3,
@@ -57,7 +57,7 @@ CCTV 14 少儿,
 CCTV 15 音乐,
 CCTV 17 农村农业,
 
-2024奥运频道,#genre#
+🥇奥运,#genre#
 TVB奧運801,
 TVB奧運802,
 TVB奧運803,
@@ -116,7 +116,7 @@ Mediacorp 奥运15,
 Mediacorp 奥运16,
 Mediacorp 奥运17,
 
-咪咕直播,#genre#
+❤咪咕,#genre#
 咪咕直播4K Ⅰ「IPV4」,
 咪咕直播4K Ⅱ「IPV4」,
 咪咕直播 𝟙「IPV4」,
@@ -200,7 +200,7 @@ Mediacorp 奥运17,
 咪咕直播-34,
 咪咕直播-35,
 
-卫视频道,#genre#
+📡卫视,#genre#
 湖南卫视,
 浙江卫视,
 东方卫视,
@@ -242,7 +242,7 @@ Mediacorp 奥运17,
 三沙卫视,
 延边卫视,
 
-港·澳·台,#genre#
+🇭🇰香港,#genre#
 凤凰中文,
 凤凰中文台
 凤凰卫视,
@@ -290,6 +290,8 @@ HOY 資訊台,
 美亚电影台,
 亚洲卫视,
 有线18,
+
+🇹🇼台湾,#genre#
 中天新闻,
 寰宇新闻,
 台视新闻,
@@ -344,6 +346,8 @@ Now华剧,
 YOYO TV,
 SKYLINK TELEVISION 2,
 ET FINANCIAL NEWS,
+
+🇲🇴澳门,#genre#
 澳门卫视,
 澳亚卫视,
 澳亚卫视台,
@@ -355,11 +359,11 @@ ET FINANCIAL NEWS,
 澳视高清台,
 莲花卫视,
 
-重庆频道,#genre#
+🥘重庆,#genre#
 重庆新闻频道,
 重庆新闻,
 
-广东频道,#genre#
+🍮广东,#genre#
 广东珠江,
 广东体育,
 广东民生,
@@ -371,7 +375,7 @@ ET FINANCIAL NEWS,
 现代教育,
 大湾区卫视,
 
-少儿频道,#genre#
+👶少儿,#genre#
 东森幼幼,
 iFun动漫,
 momo亲子,
@@ -384,7 +388,7 @@ momo亲子,
 优漫卡通,
 靖洋卡通,
 
-影视频道,#genre#
+🎞影视,#genre#
 CHC动作电影,
 CHC高清电影,
 CHC家庭影院,
