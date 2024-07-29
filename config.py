@@ -28,6 +28,7 @@ source_urls = [
     "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
     "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
     "http://ttkx.live:55/lib/kx2024.txt",
+    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
     "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt"
 ]
 
