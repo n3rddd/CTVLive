@@ -1,9 +1,9 @@
-雷蒙影视直播,#genre#
+🤠雷蒙影视直播,#genre#
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 2024-07-29,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
-央视频道,#genre#
+🇨🇳央视,#genre#
 CCTV1,http://183.7.118.59:8088/udp/239.77.1.17:5146$雷蒙影视•IPV4『线路1』
 CCTV1,http://183.7.118.59:8088/udp/239.77.1.144:5146$雷蒙影视•IPV4『线路2』
 CCTV1,http://183.7.118.59:8088/udp/239.77.0.86:5146$雷蒙影视•IPV4『线路3』
@@ -4518,7 +4518,7 @@ CCTV 15 音乐,https://tv.iill.top/migu/cctv15$雷蒙影视•IPV4『线路1』
 CCTV 15 音乐,https://tv.iill.top/tv/cctv15$雷蒙影视•IPV4『线路2』
 CCTV 17 农村农业,https://tv.iill.top/migu/cctv17$雷蒙影视•IPV4『线路1』
 CCTV 17 农村农业,https://tv.iill.top/tv/cctv17$雷蒙影视•IPV4『线路2』
-2024奥运频道,#genre#
+🥇奥运,#genre#
 TVB奧運801,https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$雷蒙影视•IPV4
 TVB奧運802,https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$雷蒙影视•IPV4
 TVB奧運803,https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$雷蒙影视•IPV4
@@ -4576,7 +4576,7 @@ Mediacorp 奥运14,http://cdn.1678520.xyz/xsj.php?id=mediacorp14$雷蒙影视•
 Mediacorp 奥运15,http://cdn.1678520.xyz/xsj.php?id=mediacorp15$雷蒙影视•IPV4
 Mediacorp 奥运16,http://cdn.1678520.xyz/xsj.php?id=mediacorp16$雷蒙影视•IPV4
 Mediacorp 奥运17,http://cdn.1678520.xyz/xsj.php?id=mediacorp17$雷蒙影视•IPV4
-咪咕直播,#genre#
+❤咪咕,#genre#
 咪咕直播4K Ⅰ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$雷蒙影视•IPV4
 咪咕直播4K Ⅱ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$雷蒙影视•IPV4『线路1』
 咪咕直播4K Ⅱ「IPV4」,https://stream1.freetv.fun/42d0b3ce8bd96f2cb7480fe027ca35a22f2d7832ee7e5a324bc93a2f22f4f209.m3u8$雷蒙影视•IPV4『线路2』
@@ -4730,7 +4730,7 @@ Mediacorp 奥运17,http://cdn.1678520.xyz/xsj.php?id=mediacorp17$雷蒙影视•
 咪咕直播-35,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3$雷蒙影视•IPV4『线路2』
 咪咕直播-35,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8$雷蒙影视•IPV6『线路3』
 咪咕直播-35,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8$雷蒙影视•IPV6『线路4』
-卫视频道,#genre#
+📡卫视,#genre#
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$雷蒙影视•IPV4『线路1』
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$雷蒙影视•IPV4『线路2』
 湖南卫视,http://59.34.94.104:4022/udp/239.77.1.5:5146$雷蒙影视•IPV4『线路3』
@@ -13450,7 +13450,7 @@ Mediacorp 奥运17,http://cdn.1678520.xyz/xsj.php?id=mediacorp17$雷蒙影视•
 延边卫视,http://[2409:8087:2801:20:100::51]/wh7f454c46tw1040851875_-1798974461/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236229/index.m3u8?icpid=88888888&RTS=1717811865&from=5&hms_devid=372&online=1717811865&vqe=3$雷蒙影视•IPV6『线路25』
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8$雷蒙影视•IPV6『线路26』
 延边卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$雷蒙影视•IPV6『线路27』
-港·澳·台,#genre#
+🇭🇰香港,#genre#
 凤凰中文,http://117.114.153.1:8180/TV00000000000000000069@HHZT$雷蒙影视•IPV4『线路1』
 凤凰中文,udp://@224.1.3.16:5016$雷蒙影视•IPV4『线路2』
 凤凰中文,http://125.70.183.105:8123/udp/239.93.0.162:2192$雷蒙影视•IPV4『线路3』
@@ -13862,6 +13862,7 @@ HOY 資訊台,http://119.136.122.61:8003/bysid/78.m3u8$雷蒙影视•IPV4『线
 有线18,http://60.208.140.180:5544/yx18/香蕉哥专用-易發TV.live.flv$雷蒙影视•IPV4『线路1』
 有线18,http://dl.mytvzhibo.top/1.php$雷蒙影视•IPV4『线路2』
 有线18,http://60.208.140.180:5544/yx18备1/香蕉哥专用-易發TV.live.flv$雷蒙影视•IPV4『线路3』
+🇹🇼台湾,#genre#
 中天新闻,http://60.208.140.180:5544/中天新闻/香蕉哥专用-易發TV.live.flv$雷蒙影视•IPV4『线路1』
 中天新闻,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8$雷蒙影视•IPV4『线路2』
 中天新闻,p3p://108.181.20.159:23520/613dba64000abeb1c801c02934bb45fc$雷蒙影视•IPV4『线路3』
@@ -14152,6 +14153,7 @@ YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8$雷蒙影�
 YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8$雷蒙影视•IPV4『线路2』
 SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8$雷蒙影视•IPV4
 ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8$雷蒙影视•IPV4
+🇲🇴澳门,#genre#
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8$雷蒙影视•IPV4『线路1』
 澳门卫视,p3p://108.181.20.159:23520/644ed5a00003da2f652a717f77c821b8$雷蒙影视•IPV4『线路2』
 澳门卫视,p3p://108.181.20.159:23520/65d1eccb0001c2564d35be2453e90179$雷蒙影视•IPV4『线路3』
@@ -14173,7 +14175,7 @@ ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8$
 莲花卫视,http://php.jdshipin.com:8880/amlh.php$雷蒙影视•IPV4『线路1』
 莲花卫视,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php$雷蒙影视•IPV4『线路2』
 莲花卫视,https://edge1.laotv.la:443/live/AomenLotus/index.m3u8$雷蒙影视•IPV4『线路3』
-重庆频道,#genre#
+🥘重庆,#genre#
 重庆新闻频道,http://tvbox6.icu/tv/cbg3.m3u8$雷蒙影视•IPV4
 重庆新闻,http://27.9.91.16:8006/udp/225.0.4.188:7980$雷蒙影视•IPV4『线路1』
 重庆新闻,http://27.11.249.182:8004/udp/225.0.4.188:7980$雷蒙影视•IPV4『线路2』
@@ -14185,7 +14187,7 @@ ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8$
 重庆新闻,http://27.10.214.211:8002/udp/225.0.4.188:7980$雷蒙影视•IPV4『线路8』
 重庆新闻,http://123.144.179.121:8004/udp/225.0.4.188:7980$雷蒙影视•IPV4『线路9』
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8$雷蒙影视•IPV4『线路10』
-广东频道,#genre#
+🍮广东,#genre#
 广东珠江,http://tvbox6.icu/tv/iptv2.php?id=39$雷蒙影视•IPV4『线路1』
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$雷蒙影视•IPV4『线路2』
 广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8$雷蒙影视•IPV4『线路3』
@@ -14569,7 +14571,7 @@ ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8$
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8$雷蒙影视•IPV6『线路66』
 大湾区卫视,http://[2409:8087:2801:22:100::4f]/wh7f454c46tw1007731023_-1337288569/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8?icpid=88888888&RTS=1717811832&from=5&ocs=2_2409:8087:2801:22:100::6f_80&hms_devid=327&online=1717811832&vqe=3$雷蒙影视•IPV6『线路67』
 大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$雷蒙影视•IPV6『线路68』
-少儿频道,#genre#
+👶少儿,#genre#
 东森幼幼,p3p://108.181.32.169:24350/6430b41c0001f3831798d72948126428$雷蒙影视•IPV4『线路1』
 东森幼幼,p3p://108.181.32.169:45653/6430b41c0001f3831798d72948126428$雷蒙影视•IPV4『线路2』
 东森幼幼,p3p://108.181.20.159:23520/62c9a6bb000ac34dc6a767036c5f3878$雷蒙影视•IPV4『线路3』
@@ -14855,7 +14857,7 @@ ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8$
 优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8$雷蒙影视•IPV6『线路38』
 靖洋卡通,p3p://108.181.20.159:23520/626104fd000e0f742df488f03ab9480b$雷蒙影视•IPV4『线路1』
 靖洋卡通,p3p://108.181.20.159:60356/626104fd000e0f742df488f03ab9480b$雷蒙影视•IPV4『线路2』
-影视频道,#genre#
+🎞影视,#genre#
 CHC动作电影,http://149.88.85.102:1354/cqyx.php?id=chcdz$雷蒙影视•IPV4『线路1』
 CHC动作电影,http://xuys.top:8888/udp/225.1.1.221:5002$雷蒙影视•IPV4『线路2』
 CHC动作电影,http://xuys.top:8888/udp/225.1.1.215:5002$雷蒙影视•IPV4『线路3』
