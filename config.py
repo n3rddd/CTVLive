@@ -26,6 +26,8 @@ source_urls = [
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
     "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+    "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+    "http://ttkx.live:55/lib/kx2024.txt",
     "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt"
 ]
 
