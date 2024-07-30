@@ -1,8 +1,8 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
-    "http://tv.850930.xyz/kdsb.m3u",
-    "http://tv.850930.xyz/gather.m3u",
+    "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
+    "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
     "http://175.178.251.183:6689/channel.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
@@ -24,14 +24,15 @@ source_urls = [
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-    "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
-    "http://ttkx.live:55/lib/kx2024.txt",
-    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u",
-    "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt"
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", #ADDED BY LEM ON 29/07/2024
+    "http://ttkx.live:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
+    "https://raw.githubusercontent.com/hus888yu/app/main/13.txt", #奥运 ON 30/07/2024
+    "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt" #ADDED BY LEM ON 29/07/2024
 ]
 
 url_blacklist = [
