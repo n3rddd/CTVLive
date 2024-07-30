@@ -29,7 +29,6 @@ source_urls = [
     "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", #ADDED BY LEM ON 29/07/2024
     "http://ttkx.live:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", #ADDED BY LEM ON 29/07/2024
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
     "https://raw.githubusercontent.com/hus888yu/app/main/13.txt", #奥运 ON 30/07/2024
     "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt" #ADDED BY LEM ON 29/07/2024
