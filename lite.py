@@ -115,10 +115,10 @@ def updateChannelUrlsM3U(channels, template_channels):
             if announcement['name'] is None:
                 announcement['name'] = current_date
 
-    with open("live.m3u", "w", encoding="utf-8") as f_m3u:
+    with open("lite.m3u", "w", encoding="utf-8") as f_m3u:
         f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
-        with open("live.txt", "w", encoding="utf-8") as f_txt:
+        with open("lite.txt", "w", encoding="utf-8") as f_txt:
             for group in config.announcements:
                 f_txt.write(f"{group['channel']},#genre#\n")
                 for announcement in group['entries']:
