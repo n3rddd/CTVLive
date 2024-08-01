@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: '45 21 * * *'
   workflow_dispatch:
-    branches:
-      - main
-      - lite
+    # 移除了 branches 过滤器
+    # branches:
+    #   - main
+    #   - lite
 
 jobs:
   run_script:
