@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
     branches:
       - main
-      - 'lite/**'
 
 jobs:
   run_script:
