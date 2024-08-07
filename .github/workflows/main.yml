@@ -2,7 +2,7 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '45 21 * * *'
+    - cron: '30 9,21 * * *'
   workflow_dispatch:
     branches:
       - main
