@@ -34,6 +34,7 @@ jobs:
 
     - name: Run Python script
       run: python main.py
+      run: python litemain.py
 
     - name: Commit and push if changed
       run: |
