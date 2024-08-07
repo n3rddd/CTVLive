@@ -1,8 +1,18 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
-    "https://raw.githubusercontent.com/hus888yu/app/main/111.m3u",
-    "https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
+    "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
+    "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
+    "http://tv.850930.xyz/kdsb2.m3u", #ADDED BY LEM ON 31/07/2024
+    "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
+    "http://tv.850930.xyz/543.m3u", #ADDED BY LEM ON 05/08/2024
+    "http://tv.850930.xyz/histar.m3u", #ADDED BY LEM ON 05/08/2024
+    "https://raw.githubusercontent.com/hus888yu/app/main/111.m3u", #ADDED BY LEM ON 06/08/2024
+    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
+    "http://ttkx.live:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
+    "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt" #ADDED BY LEM ON 29/07/2024
 ]
 
 url_blacklist = [
