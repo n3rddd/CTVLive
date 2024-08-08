@@ -27576,10 +27576,13 @@ GINX Esports TV,http://106.107.177.216:5000/litv/4gtv-4gtv053$雷蒙影视•IPV
 影迷数位电影台,https://tv.iill.top/litv/4gtv-4gtv011$雷蒙影视•IPV4『线路1』
 影迷数位电影台,http://106.107.177.216:5000/litv/4gtv-4gtv011$雷蒙影视•IPV4『线路2』
 影迷数位电影台,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b$雷蒙影视•IPV4『线路3』
-AMC 最爱电影,https://tv.iill.top/litv/4gtv-4gtv017$雷蒙影视•IPV4『线路1』
-AMC 最爱电影,http://106.107.177.216:5000/litv/4gtv-4gtv017$雷蒙影视•IPV4『线路2』
-CatchPlay 电影台,https://tv.iill.top/litv/4gtv-4gtv076$雷蒙影视•IPV4『线路1』
-CatchPlay 电影台,http://106.107.177.216:5000/litv/4gtv-4gtv076$雷蒙影视•IPV4『线路2』
+AMC最爱电影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc$雷蒙影视•IPV4『线路1』
+AMC最爱电影,https://tv.iill.top/litv/4gtv-4gtv017$雷蒙影视•IPV4『线路2』
+AMC最爱电影,http://106.107.177.216:5000/litv/4gtv-4gtv017$雷蒙影视•IPV4『线路3』
+CatchPlay电影台,https://tv.iill.top/litv/4gtv-4gtv076$雷蒙影视•IPV4『线路1』
+CatchPlay电影台,http://106.107.177.216:5000/litv/4gtv-4gtv076$雷蒙影视•IPV4『线路2』
+CatchPlay电影台,p3p://108.181.32.169:43118/64252479000b7f1aea6ffd6177e3015c$雷蒙影视•IPV4『线路3』
+CatchPlay电影台,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15$雷蒙影视•IPV4『线路4』
 🇭🇰香港,#genre#
 凤凰卫视中文台,http://118.112.148.228:4022/udp/239.93.0.162:2192$雷蒙影视•IPV4『线路1』
 凤凰卫视中文台,http://118.112.148.228:4022/udp/239.93.1.9:2192$雷蒙影视•IPV4『线路2』
@@ -28099,25 +28102,6 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn$雷蒙影视•IPV4『线路5�
 翡翠台,p3p://108.181.20.159:30168/653e4c6d000965ef0c8e049f4be34103$雷蒙影视•IPV4『线路56』
 翡翠台,http://116.199.24.6:2901/udp/225.1.101.41:7523$雷蒙影视•IPV4『线路57』
 翡翠台,http://116.199.24.6:2901/udp/225.1.101.45:7523$雷蒙影视•IPV4『线路58』
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp$雷蒙影视•IPV4『线路1』
-TVB Plus,http://154.204.178.8:345/233.php$雷蒙影视•IPV4『线路2』
-TVB Plus,http://tvbox6.icu/tv/tvbplus.m3u8$雷蒙影视•IPV4『线路3』
-TVB Plus,http://tvbox6.icu/tv/hk.php?id=45$雷蒙影视•IPV4『线路4』
-TVB Plus,http://live.cooltv.top/tv/tvb.php?id=2&hq$雷蒙影视•IPV4『线路5』
-TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$雷蒙影视•IPV4『线路6』
-TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8$雷蒙影视•IPV4『线路7』
-TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8$雷蒙影视•IPV4『线路8』
-TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8$雷蒙影视•IPV4『线路9』
-TVB Plus,http://61.238.177.254:30261/stream/channelid/112716350$雷蒙影视•IPV4『线路10』
-TVB Plus,http://timmy789.x3322.net:9081/stream/channelid/1790978445?profile=pass$雷蒙影视•IPV4『线路11』
-TVB Plus,http://119.136.122.61:8001/bysid/82.m3u8$雷蒙影视•IPV4『线路12』
-TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8$雷蒙影视•IPV4『线路13』
-TVB Plus,http://124.244.149.194:65531/bysid/82$雷蒙影视•IPV4『线路14』
-TVB Plus,http://tvbox6.com/tv/tvbplus.m3u8$雷蒙影视•IPV4『线路15』
-TVB Plus,http://tvbox6.com/tv/hk.php?id=45$雷蒙影视•IPV4『线路16』
-TVB Plus,https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc$雷蒙影视•IPV4『线路17』
-TVB Plus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6$雷蒙影视•IPV4『线路18』
-TVB Plus,https://tv.iill.top/tv/tvb$雷蒙影视•IPV4『线路19』
 TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq$雷蒙影视•IPV4『线路1』
 TVB无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn$雷蒙影视•IPV4『线路2』
 TVB无线新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8$雷蒙影视•IPV4『线路3』
