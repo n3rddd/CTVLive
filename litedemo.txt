@@ -327,8 +327,8 @@ TechStorm,
 TraceSports,
 影迷数位纪实台,
 影迷数位电影台,
-AMC 最爱电影,
-CatchPlay 电影台,
+AMC最爱电影,
+CatchPlay电影台,
 
 🇭🇰香港,#genre#
 凤凰卫视中文台,
