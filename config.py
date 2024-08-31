@@ -11,6 +11,7 @@ source_urls = [
     "https://raw.githubusercontent.com/hus888yu/app/main/111.m3u", #ADDED BY LEM ON 06/08/2024
     "https://raw.githubusercontent.com/hus888yu/app/main/543.m3u", #ADDED BY LEM ON 13/08/2024
     "https://guot55.serv00.net/zb.php", #ADDED BY LEM ON 31/08/2024
+    "https://www.stream-link.org/stream-link.m3u", #ADDED BY LEM ON 31/08/2024
     "http://175.178.251.183:6689/channel.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
