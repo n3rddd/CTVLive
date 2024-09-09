@@ -8,7 +8,7 @@ source_urls = [
     "http://tv.850930.xyz/kdsb3.m3u", #ADDED BY LEM ON 27/08/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
     "https://tv543.cc/nb.txt", #ADDED BY LEM ON 26/08/2024
-    "https://guot55.serv00.net/zb.php", #ADDED BY LEM ON 31/08/2024
+    "http://free.xiptv.x10.bz/p3p.php", #ADDED BY LEM ON 09/09/2024
     "https://www.stream-link.org/stream-link.m3u", #ADDED BY LEM ON 31/08/2024
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", #ADDED BY LEM ON 08/09/2024  
