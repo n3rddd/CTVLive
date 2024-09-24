@@ -19,7 +19,7 @@ def write_to_file(links, filename='iptv.m3u'):
             f.write(link + '\n')
 
 if __name__ == "__main__":
-    url = "https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/litelive.m3u"
+    url = "https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.m3u"
     links = fetch_links(url)
     cleaned_links = clean_links(links)
     write_to_file(cleaned_links)
