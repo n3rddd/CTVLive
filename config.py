@@ -10,6 +10,7 @@ source_urls = [
     "https://gitcode.net/ygbh66/test/-/raw/master/oh.txt", #ADDED BY LEM ON 10/09/2024
     "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u", #ADDED BY LEM ON 28/09/2024
     "https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt", #ADDED BY LEM ON 27/09/2024
+    "https://raw.githubusercontent.com/hus888yu/app/main/yt.txt", #ADDED BY LEM ON 06/10/2024
     "https://raw.githubusercontent.com/hus888yu/app/main/nb.txt", #ADDED BY LEM ON 27/09/2024
     "https://raw.githubusercontent.com/hus888yu/app/main/ub.txt", #ADDED BY LEM ON 10/09/2024
     "https://raw.githubusercontent.com/hus888yu/app/main/p3p.php", #ADDED BY LEM ON 10/09/2024
