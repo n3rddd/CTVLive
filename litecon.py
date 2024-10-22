@@ -22,7 +22,7 @@ source_urls = [
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", #ADDED BY LEM ON 08/09/2024  
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt", #ADDED BY LEM ON 29/07/2024
-    "http://ttkx.live:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
+    "http://kxrj.site:55/lib/kx2024.txt", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
     "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt" #ADDED BY LEM ON 29/07/2024
 ]
