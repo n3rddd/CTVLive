@@ -7,6 +7,7 @@ source_urls = [
     "http://tv.850930.xyz/kdsb2.m3u", #ADDED BY LEM ON 31/07/2024
     "http://tv.850930.xyz/kdsb.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
+    "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt", #ADDED BY LEM ON 26/10/2024
     "http://45.207.209.177:10188/4gtv.m3u", #ADDED BY LEM ON 18/10/2024
     "http://pixman.digimon.us.kg/4gtv.m3u", #ADDED BY LEM ON 18/10/2024
     "http://aktv.top/live.m3u", #ADDED BY LEM ON 18/10/2024
