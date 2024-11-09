@@ -8,7 +8,6 @@ source_urls = [
     "http://tv.850930.xyz/kdsb.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
     "https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u",, #ADDED BY LEM ON 09/11/2024
-    "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt", #ADDED BY LEM ON 26/10/2024
     "https://4gtv.pendy.us.kg/myiptv.m3u", #ADDED BY LEM ON 04/11/2024
     "http://aktv.top/live.m3u", #ADDED BY LEM ON 18/10/2024
     "https://gitcode.net/ygbh66/test/-/raw/master/oh.txt", #ADDED BY LEM ON 10/09/2024
