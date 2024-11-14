@@ -1,12 +1,13 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
-    "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
-    "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
     "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
     "http://tv.850930.xyz/kdsb2.m3u", #ADDED BY LEM ON 31/07/2024
     "http://tv.850930.xyz/kdsb.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
+    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt", #ADDED BY LEM ON 14/11/2024
+    "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
+    "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
     "https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u", #ADDED BY LEM ON 09/11/2024
     "https://4gtv.pendy.us.kg/myiptv.m3u", #ADDED BY LEM ON 04/11/2024
     "http://aktv.top/live.m3u", #ADDED BY LEM ON 18/10/2024
