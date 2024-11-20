@@ -15,6 +15,7 @@ source_urls = [
     "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u", #ADDED BY LEM ON 28/09/2024
     "https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt", #ADDED BY LEM ON 27/09/2024
     "https://raw.githubusercontent.com/SingerLan/live/refs/heads/main/jiexi.txt", #ADDED BY LEM ON 20/11/2024
+    "https://json.doube.eu.org/live/migu/Sub.php", #ADDED BY LEM ON 20/11/2024
     "https://www.stream-link.org/stream-link.m3u", #ADDED BY LEM ON 31/08/2024
     "http://175.178.251.183:6689/channel.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
