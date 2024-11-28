@@ -1,9 +1,8 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
-    "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
-    "http://tv.850930.xyz/kdsb2.m3u", #ADDED BY LEM ON 31/07/2024
     "http://tv.850930.xyz/kdsb.txt", #ADDED BY LEM ON 28/09/2024
+    "http://tv.850930.xyz/kdsb2.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
     "https://live.wqwqwq.sbs/tv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://4g.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
