@@ -6,12 +6,13 @@ source_urls = [
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
     "https://live.wqwqwq.sbs/tv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://4g.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
+    "https://www.mytvsuper.xyz/m3u/Live.m3u", #ADDED BY LEM ON 30/11/2024
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt", #ADDED BY LEM ON 14/11/2024
     "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
     "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
     "https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u", #ADDED BY LEM ON 09/11/2024
     "https://4gtv.pendy.us.kg/myiptv.m3u", #ADDED BY LEM ON 04/11/2024
-    "http://aktv.top/live.m3u", #ADDED BY LEM ON 18/10/2024
+    "https://aktv.top/live.m3u", #ADDED BY LEM ON 18/10/2024
     "https://gitcode.net/ygbh66/test/-/raw/master/oh.txt", #ADDED BY LEM ON 10/09/2024
     "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u", #ADDED BY LEM ON 28/09/2024
     "https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt", #ADDED BY LEM ON 27/09/2024
