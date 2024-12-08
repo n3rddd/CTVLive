@@ -7,6 +7,7 @@ source_urls = [
     "https://live.wqwqwq.sbs/tv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://4g.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://www.mytvsuper.xyz/m3u/Live.m3u", #ADDED BY LEM ON 30/11/2024
+    "https://tv.ccsource.us.kg/live.txt", #ADDED BY LEM ON 08/12/2024
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt", #ADDED BY LEM ON 14/11/2024
     "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
     "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
