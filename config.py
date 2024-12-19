@@ -5,7 +5,9 @@ source_urls = [
     "http://tv.850930.xyz/kdsb2.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
     "https://live.wqwqwq.sbs/tv.m3u", #ADDED BY LEM ON 26/11/2024
+    "https://lu.wqwqwq.sbs/tv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://4g.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
+    "https://tv.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://www.mytvsuper.xyz/m3u/Live.m3u", #ADDED BY LEM ON 30/11/2024
     "https://tv.ccsource.us.kg/live.txt", #ADDED BY LEM ON 08/12/2024
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt", #ADDED BY LEM ON 14/11/2024
