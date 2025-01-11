@@ -1,44 +1,44 @@
-2025-01-11 17:34:21,732 - INFO - url: http://tv.850930.xyz/kdsb.txt 获取成功，判断为txt格式
-2025-01-11 17:34:21,742 - INFO - url: http://tv.850930.xyz/kdsb.txt 爬取成功✅，包含频道分类: 🐼电视公告, 🔥AKTV恢复, 🔥北方广电, 🔥云南有线, 🐼4k专区, 🐼咪咕直播, 🐼中央电视, 🐼全国卫视, 🐼数字电视, 🐼移动专区, 🐼联通专区, 🐼电信专区, 🐼IPV6专区, 💝香港澳门, 🔥台湾专区, 🌍国际频道, 🐼电影轮播, 🐼体育专区, 🐼北方广电, 🐼北京ID10, 🐼天津ID11, 🐼河北ID12, 🐼山西ID13, 🐼内蒙ID14, 🐼辽宁ID15, 🐼吉林ID16, 🐼龙江ID17, 🐼上海ID18, 🐼江苏ID19, 🐼浙江ID20, 🐼安徽ID21, 🐼福建ID22, 🐼江西ID23, 🐼山东ID24, 🐼河南ID25, 🐼湖北ID26, 🐼湖南ID27, 🐼广东ID28, 🐼广西ID29, 🐼海南ID30, 🐼重庆ID31, 🐼四川ID32, 🐼贵州ID33, 🐼云南ID34, 🐼西藏ID35, 🐼陕西ID36, 🐼甘肃ID37, 🐼青海ID38, 🐼宁夏ID39, 🐼新疆ID40
-2025-01-11 17:34:22,126 - INFO - url: http://tv.850930.xyz/kdsb2.txt 获取成功，判断为txt格式
-2025-01-11 17:34:22,137 - INFO - url: http://tv.850930.xyz/kdsb2.txt 爬取成功✅，包含频道分类: 🐼电视公告, 🔥AKTV恢复, 🔥央视频区, 🔥北方广电, 🔥云南有线, 🐼4k专区, 🐼咪咕直播, 🐼中央电视, 🐼全国卫视, 🐼数字电视, 🐼移动专区, 🐼联通专区, 🐼电信专区, 🐼IPV6专区, 💝香港澳门, 🔥台湾专区, 🌍国际频道, 🐼电影轮播, 🐼体育专区, 🐼北方广电, 🐼北京ID10, 🐼天津ID11, 🐼河北ID12, 🐼山西ID13, 🐼内蒙ID14, 🐼辽宁ID15, 🐼吉林ID16, 🐼龙江ID17, 🐼上海ID18, 🐼江苏ID19, 🐼浙江ID20, 🐼安徽ID21, 🐼福建ID22, 🐼江西ID23, 🐼山东ID24, 🐼河南ID25, 🐼湖北ID26, 🐼湖南ID27, 🐼广东ID28, 🐼广西ID29, 🐼海南ID30, 🐼重庆ID31, 🐼四川ID32, 🐼贵州ID33, 🐼云南ID34, 🐼西藏ID35, 🐼陕西ID36, 🐼甘肃ID37, 🐼青海ID38, 🐼宁夏ID39, 🐼新疆ID40
-2025-01-11 17:34:23,509 - INFO - url: http://tv.850930.xyz/gather.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:23,512 - INFO - url: http://tv.850930.xyz/gather.m3u 爬取成功✅，包含频道分类: •温馨「提示」, •4K「IPV4」, •4K「IPV6」, •央视「IPV6」, •卫视「IPV6」, •iHOT「IPV6」, •NewTV「IPV6」, •数字「IPV6」, •咪咕「IPV6」, •咪咕「NBA」, •咪咕「足球」, •咪咕「体育」, •咪咕「TV」, •國際「AKTV」, •國際「匯集」, •港澳「限制」, •台湾「限制」, •广东「特产」, •特色「混搭」, •游戏「赛事」, •影视「轮播」, •广播「壹」, •广播「贰」, •韩国「KO」, •日本「JP」, --------------------------, •myTV「请到GitHub获取」, ---------------------------
-2025-01-11 17:34:23,575 - INFO - url: https://live.wqwqwq.sbs/tv.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:23,576 - INFO - url: https://live.wqwqwq.sbs/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
-2025-01-11 17:34:24,225 - INFO - url: https://lu.wqwqwq.sbs/tv.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:24,226 - INFO - url: https://lu.wqwqwq.sbs/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 其他, 8K频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
-2025-01-11 17:34:24,271 - ERROR - url: https://4g.wqwqwq.sbs/iptv.m3u 爬取失败❌, Error: 530 Server Error:  for url: https://4g.wqwqwq.sbs/iptv.m3u
-2025-01-11 17:34:24,378 - INFO - url: https://tv.wqwqwq.sbs/iptv.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:24,379 - INFO - url: https://tv.wqwqwq.sbs/iptv.m3u 爬取成功✅，包含频道分类: 綜合, 新聞財經, 電影戲劇, 生活旅遊, 音樂綜藝, 少兒, 其他, 體育, 央视, 4K 频道, 8K 频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
-2025-01-11 17:34:24,969 - INFO - url: https://www.mytvsuper.xyz/m3u/Live.m3u 获取成功，判断为txt格式
-2025-01-11 17:34:25,164 - INFO - url: https://tv.ccsource.us.kg/live.txt 获取成功，判断为txt格式
-2025-01-11 17:34:25,170 - INFO - url: https://tv.ccsource.us.kg/live.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 央卫综合, 国际综合, 浙江综合, 江苏综合, 山东综合, 湖南综合, 四川综合, 安徽综合, 河南综合, 福建综合, 河北综合, 湖北综合, 广西综合, 各地综合, 影视综合, 数字频道, 少儿频道, 体育频道, 直播中国, 央视IPV6, 卫视IPV6
-2025-01-11 17:34:25,199 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 获取成功，判断为txt格式
-2025-01-11 17:34:25,201 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 爬取成功✅，包含频道分类: 综合, 小地方, IPV6, CCTV, 卫视, 精品, CCTV-Live, 地方台, 斗鱼电影, 海外(已隐藏), 测试
-2025-01-11 17:34:25,234 - INFO - url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2025-01-11 17:34:25,250 - INFO - url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 上海电信, 江苏, 北京联通, 天津联通, 河南电信, 山西电信, 广东电信, 四川电信, 浙江电信, 湖北电信, 福建电信, 湖南电信, 甘肃电信, 河北联通
-2025-01-11 17:34:25,280 - ERROR - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt
-2025-01-11 17:34:25,313 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 获取成功，判断为txt格式
-2025-01-11 17:34:25,320 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 爬取成功✅，包含频道分类: 🇨🇳央视频道🇨🇳, 🛰️卫视频道🛰️, 🇭🇰港澳台🇭🇰, 🏆咪咕体育🏆, 🥝精品频道🥝, 🤩3D频道🤩
-2025-01-11 17:34:25,606 - ERROR - url: https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u
-2025-01-11 17:34:25,815 - ERROR - url: https://4gtv.pendy.us.kg/myiptv.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='4gtv.pendy.us.kg', port=443): Max retries exceeded with url: /myiptv.m3u (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fef3fcd00d0>: Failed to resolve '4gtv.pendy.us.kg' ([Errno -2] Name or service not known)"))
-2025-01-11 17:34:25,889 - INFO - url: https://aktv.top/live.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:25,890 - INFO - url: https://aktv.top/live.m3u 爬取成功✅，包含频道分类: AKTV
-2025-01-11 17:34:28,827 - INFO - url: https://gitcode.net/ygbh66/test/-/raw/master/oh.txt 获取成功，判断为txt格式
-2025-01-11 17:34:28,858 - INFO - url: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:29,077 - ERROR - url: https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
-2025-01-11 17:34:29,108 - INFO - url: https://raw.githubusercontent.com/SingerLan/live/refs/heads/main/jiexi.txt 获取成功，判断为txt格式
-2025-01-11 17:34:29,109 - INFO - url: https://raw.githubusercontent.com/SingerLan/live/refs/heads/main/jiexi.txt 爬取成功✅，包含频道分类: 数字付费, 央视, 港台, 卫视, 电影电视, 广东, 北京, IPV6
-2025-01-11 17:34:29,190 - INFO - url: https://json.doube.eu.org/live/migu/Sub.php 获取成功，判断为m3u格式
-2025-01-11 17:34:29,191 - INFO - url: https://json.doube.eu.org/live/migu/Sub.php 爬取成功✅，包含频道分类: 央视, 中央新影, CGTN, CHC, 卫视, 咪咕数字, 熊猫
-2025-01-11 17:34:29,257 - ERROR - url: https://www.stream-link.org/stream-link.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://www.stream-link.org/stream-link.m3u
-2025-01-11 17:34:29,287 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 获取成功，判断为txt格式
-2025-01-11 17:34:29,288 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 其他频道
-2025-01-11 17:34:29,318 - INFO - url: https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8 获取成功，判断为txt格式
-2025-01-11 17:34:29,376 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
-2025-01-11 17:34:29,431 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间, 💓专享源🅰️, 💓专享源🅱️, 💓专享央视, 💓专享卫视, 💓港澳台📶, 💓 AKTV📶, 💓台湾台📶, 💓电视剧🔁, 💓优质个源, 💓儿童专享, 💓咪咕直播, 🏀SPORTS⚽️, 🍹定制台☕️, 💓英语频道, 💓4K(Test), 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️湖南频道, ☘️湖北频道, ☘️广东频道, ☘️浙江频道, ☘️山东频道, ☘️江苏频道, ☘️安徽频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️与凤行, ❤️以家人之名
-2025-01-11 17:34:32,412 - INFO - url: http://kxrj.site:55/lib/kx2024.txt 获取成功，判断为txt格式
-2025-01-11 17:34:32,426 - INFO - url: http://kxrj.site:55/lib/kx2024.txt 爬取成功✅，包含频道分类: 💝永久免费👉公告, 💝中国港澳👉全网, 💝AKTV频道👉全网, 💝央卫频道👉全网, 💝肥羊iTV频道👉全网, 💝咪咕频道👉全网, 💝中国移动ITV👉移动, 💝辽宁北方频道👉代理, 💝广东荔枝频道👉全网, 💝广东频道👉组建, 💝四川重庆频道👉全网, 💝央视频道👉ipv6, 💝卫视频道👉IPV6, 💝黑龙江回看👉IPV6, 💝范明明频道👉IPV6, 💝全球频道👉全网, 💝体育频道👉全网, 💝游戏赛事👉全网, 💝虎牙埋堆堆👉全网, 💝虎牙轮播👉全网, 💝MTV视频👉全网, 💝收音广播👉全网, 💝景区直播👉全网, 💝春晚现场👉全网, 💝港澳财经👉_888全网, 💝下列P3P, 167需要科学［美］节, 173需要科学［美］节
-2025-01-11 17:34:32,459 - INFO - url: https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u 获取成功，判断为m3u格式
-2025-01-11 17:34:32,694 - ERROR - url: https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt
+2025-01-12 05:34:49,476 - INFO - url: http://tv.850930.xyz/kdsb.txt 获取成功，判断为txt格式
+2025-01-12 05:34:49,487 - INFO - url: http://tv.850930.xyz/kdsb.txt 爬取成功✅，包含频道分类: 🐼电视公告, 🔥AKTV恢复, 🔥北方广电, 🔥云南有线, 🐼4k专区, 🐼咪咕直播, 🐼中央电视, 🐼全国卫视, 🐼数字电视, 🐼移动专区, 🐼联通专区, 🐼电信专区, 🐼IPV6专区, 💝香港澳门, 🔥台湾专区, 🌍国际频道, 🐼电影轮播, 🐼体育专区, 🐼北方广电, 🐼北京ID10, 🐼天津ID11, 🐼河北ID12, 🐼山西ID13, 🐼内蒙ID14, 🐼辽宁ID15, 🐼吉林ID16, 🐼龙江ID17, 🐼上海ID18, 🐼江苏ID19, 🐼浙江ID20, 🐼安徽ID21, 🐼福建ID22, 🐼江西ID23, 🐼山东ID24, 🐼河南ID25, 🐼湖北ID26, 🐼湖南ID27, 🐼广东ID28, 🐼广西ID29, 🐼海南ID30, 🐼重庆ID31, 🐼四川ID32, 🐼贵州ID33, 🐼云南ID34, 🐼西藏ID35, 🐼陕西ID36, 🐼甘肃ID37, 🐼青海ID38, 🐼宁夏ID39, 🐼新疆ID40
+2025-01-12 05:34:50,812 - INFO - url: http://tv.850930.xyz/kdsb2.txt 获取成功，判断为txt格式
+2025-01-12 05:34:50,824 - INFO - url: http://tv.850930.xyz/kdsb2.txt 爬取成功✅，包含频道分类: 🐼电视公告, 🔥AKTV恢复, 🔥央视频区, 🔥银河电视, 🔥北方广电, 🔥云南有线, 🐼4k专区, 🐼咪咕直播, 🐼中央电视, 🐼全国卫视, 🐼数字电视, 🐼移动专区, 🐼联通专区, 🐼电信专区, 🐼IPV6专区, 💝香港澳门, 🔥台湾专区, 🌍国际频道, 🐼电影轮播, 🐼体育专区, 🐼北方广电, 🐼北京ID10, 🐼天津ID11, 🐼河北ID12, 🐼山西ID13, 🐼内蒙ID14, 🐼辽宁ID15, 🐼吉林ID16, 🐼龙江ID17, 🐼上海ID18, 🐼江苏ID19, 🐼浙江ID20, 🐼安徽ID21, 🐼福建ID22, 🐼江西ID23, 🐼山东ID24, 🐼河南ID25, 🐼湖北ID26, 🐼湖南ID27, 🐼广东ID28, 🐼广西ID29, 🐼海南ID30, 🐼重庆ID31, 🐼四川ID32, 🐼贵州ID33, 🐼云南ID34, 🐼西藏ID35, 🐼陕西ID36, 🐼甘肃ID37, 🐼青海ID38, 🐼宁夏ID39, 🐼新疆ID40
+2025-01-12 05:34:52,170 - INFO - url: http://tv.850930.xyz/gather.m3u 获取成功，判断为m3u格式
+2025-01-12 05:34:52,174 - INFO - url: http://tv.850930.xyz/gather.m3u 爬取成功✅，包含频道分类: •温馨「提示」, •4K「IPV4」, •4K「IPV6」, •央视「IPV6」, •卫视「IPV6」, •iHOT「IPV6」, •NewTV「IPV6」, •数字「IPV6」, •咪咕「IPV6」, •咪咕「NBA」, •咪咕「足球」, •咪咕「体育」, •咪咕「TV」, •國際「AKTV」, •國際「匯集」, •港澳「限制」, •台湾「限制」, •广东「特产」, •特色「混搭」, •游戏「赛事」, •影视「轮播」, •广播「壹」, •广播「贰」, •韩国「KO」, •日本「JP」, --------------------------, •myTV「请到GitHub获取」, ---------------------------
+2025-01-12 05:34:52,247 - INFO - url: https://live.wqwqwq.sbs/tv.m3u 获取成功，判断为m3u格式
+2025-01-12 05:34:52,247 - INFO - url: https://live.wqwqwq.sbs/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 卫视, 香港, 其他, 8K频道, 北京, 安徽, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
+2025-01-12 05:34:52,922 - INFO - url: https://lu.wqwqwq.sbs/tv.m3u 获取成功，判断为m3u格式
+2025-01-12 05:34:52,923 - INFO - url: https://lu.wqwqwq.sbs/tv.m3u 爬取成功✅，包含频道分类: 4K频道, 央视, 卫视, 香港, 其他, 8K频道, 北京, 安徽, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
+2025-01-12 05:34:52,954 - ERROR - url: https://4g.wqwqwq.sbs/iptv.m3u 爬取失败❌, Error: 530 Server Error:  for url: https://4g.wqwqwq.sbs/iptv.m3u
+2025-01-12 05:34:53,081 - INFO - url: https://tv.wqwqwq.sbs/iptv.m3u 获取成功，判断为m3u格式
+2025-01-12 05:34:53,082 - INFO - url: https://tv.wqwqwq.sbs/iptv.m3u 爬取成功✅，包含频道分类: 綜合, 新聞財經, 電影戲劇, 生活旅遊, 音樂綜藝, 少兒, 其他, 體育, 央视, 4K 频道, 8K 频道, 北京, 安徽, 卫视, 甘肃, 广东, 贵州, 海南, 河北, 河南, 黑龙江, 湖北, 湖南, 吉林, 江苏, 江西, 辽宁, 青海, 山东, 上海, 四川, 云南, 浙江, 重庆, NEWTV, IHOT, 咪咕体育
+2025-01-12 05:34:53,681 - INFO - url: https://www.mytvsuper.xyz/m3u/Live.m3u 获取成功，判断为txt格式
+2025-01-12 05:34:53,815 - INFO - url: https://tv.ccsource.us.kg/live.txt 获取成功，判断为txt格式
+2025-01-12 05:34:53,821 - INFO - url: https://tv.ccsource.us.kg/live.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 央卫综合, 国际综合, 浙江综合, 江苏综合, 山东综合, 湖南综合, 四川综合, 安徽综合, 河南综合, 福建综合, 河北综合, 湖北综合, 广西综合, 各地综合, 影视综合, 数字频道, 少儿频道, 体育频道, 直播中国, 央视IPV6, 卫视IPV6
+2025-01-12 05:34:53,832 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 获取成功，判断为txt格式
+2025-01-12 05:34:53,833 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 爬取成功✅，包含频道分类: 综合, 小地方, IPV6, CCTV, 卫视, 精品, CCTV-Live, 地方台, 斗鱼电影, 海外(已隐藏), 测试
+2025-01-12 05:34:53,846 - INFO - url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2025-01-12 05:34:53,862 - INFO - url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 上海电信, 江苏, 北京联通, 天津联通, 河南电信, 山西电信, 广东电信, 四川电信, 浙江电信, 湖北电信, 福建电信, 湖南电信, 甘肃电信, 河北联通
+2025-01-12 05:34:53,966 - ERROR - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt
+2025-01-12 05:34:53,993 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 获取成功，判断为txt格式
+2025-01-12 05:34:53,996 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 爬取成功✅，包含频道分类: 🇨🇳央视频道🇨🇳, 🛰️卫视频道🛰️, 🇭🇰港澳台🇭🇰, 🏆体育频道🏅, 🏆咪咕体育🏆, 🥝精品频道🥝, 🤩3D频道🤩
+2025-01-12 05:34:54,086 - ERROR - url: https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/n3rddd/MemoryCollection-IPTV/refs/heads/main/itvlist.m3u
+2025-01-12 05:34:54,557 - ERROR - url: https://4gtv.pendy.us.kg/myiptv.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='4gtv.pendy.us.kg', port=443): Max retries exceeded with url: /myiptv.m3u (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9edc1f80a0>: Failed to resolve '4gtv.pendy.us.kg' ([Errno -2] Name or service not known)"))
+2025-01-12 05:34:54,675 - INFO - url: https://aktv.top/live.m3u 获取成功，判断为m3u格式
+2025-01-12 05:34:54,675 - INFO - url: https://aktv.top/live.m3u 爬取成功✅，包含频道分类: AKTV
+2025-01-12 05:34:57,426 - INFO - url: https://gitcode.net/ygbh66/test/-/raw/master/oh.txt 获取成功，判断为txt格式
+2025-01-12 05:34:57,708 - INFO - url: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 获取成功，判断为m3u格式
+2025-01-12 05:34:57,833 - ERROR - url: https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
+2025-01-12 05:34:58,256 - INFO - url: https://raw.githubusercontent.com/SingerLan/live/refs/heads/main/jiexi.txt 获取成功，判断为txt格式
+2025-01-12 05:34:58,257 - INFO - url: https://raw.githubusercontent.com/SingerLan/live/refs/heads/main/jiexi.txt 爬取成功✅，包含频道分类: 数字付费, 央视, 港台, 卫视, 电影电视, 广东, 北京, IPV6
+2025-01-12 05:34:58,301 - INFO - url: https://json.doube.eu.org/live/migu/Sub.php 获取成功，判断为m3u格式
+2025-01-12 05:34:58,301 - INFO - url: https://json.doube.eu.org/live/migu/Sub.php 爬取成功✅，包含频道分类: 央视, 中央新影, CGTN, CHC, 卫视, 咪咕数字, 熊猫
+2025-01-12 05:34:58,442 - ERROR - url: https://www.stream-link.org/stream-link.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://www.stream-link.org/stream-link.m3u
+2025-01-12 05:34:58,450 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 获取成功，判断为txt格式
+2025-01-12 05:34:58,451 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 其他频道
+2025-01-12 05:34:58,459 - INFO - url: https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8 获取成功，判断为txt格式
+2025-01-12 05:34:58,802 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
+2025-01-12 05:34:58,859 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间, 💓专享源🅰️, 💓专享源🅱️, 💓专享央视, 💓专享卫视, 💓港澳台📶, 💓 AKTV📶, 💓台湾台📶, 💓电视剧🔁, 💓优质个源, 💓儿童专享, 💓咪咕直播, 🏀SPORTS⚽️, 🍹定制台☕️, 💓英语频道, 💓4K(Test), 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️湖南频道, ☘️湖北频道, ☘️广东频道, ☘️浙江频道, ☘️山东频道, ☘️江苏频道, ☘️安徽频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️与凤行, ❤️以家人之名
+2025-01-12 05:35:01,705 - INFO - url: http://kxrj.site:55/lib/kx2024.txt 获取成功，判断为txt格式
+2025-01-12 05:35:01,718 - INFO - url: http://kxrj.site:55/lib/kx2024.txt 爬取成功✅，包含频道分类: 💝永久免费👉公告, 💝中国港澳👉全网, 💝AKTV频道👉全网, 💝肥羊iTV频道👉全网, 💝咪咕频道👉全网, 💝中国移动ITV👉移动, 💝辽宁北方频道👉代理, 💝广东荔枝频道👉全网, 💝广东频道👉组建, 💝四川重庆频道👉全网, 💝央视频道👉ipv6, 💝卫视频道👉IPV6, 💝黑龙江回看👉IPV6, 💝范明明频道👉IPV6, 💝全球频道👉全网, 💝体育频道👉全网, 💝游戏赛事👉全网, 💝虎牙埋堆堆👉全网, 💝虎牙轮播👉全网, 💝MTV视频👉全网, 💝收音广播👉全网, 💝景区直播👉全网, 💝春晚现场👉全网, 💝港澳财经👉_888全网, 💝下列P3P, 167需要科学［美］节, 173需要科学［美］节
+2025-01-12 05:35:01,729 - INFO - url: https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u 获取成功，判断为m3u格式
+2025-01-12 05:35:01,937 - ERROR - url: https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt
