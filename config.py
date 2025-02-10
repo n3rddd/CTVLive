@@ -8,6 +8,10 @@ source_urls = [
     "https://lu.wqwqwq.sbs/tv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://4g.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
     "https://tv.wqwqwq.sbs/iptv.m3u", #ADDED BY LEM ON 26/11/2024
+    "https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u", #ADDED BY LEM ON 10/02/2025
+    "https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u", #ADDED BY LEM ON 10/02/2025
+    "https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u", #ADDED BY LEM ON 10/02/2025
+    "https://live.hacks.tools/iptv/languages/zho.m3u", #ADDED BY LEM ON 10/02/2025
     "https://www.mytvsuper.xyz/m3u/Live.m3u", #ADDED BY LEM ON 30/11/2024
     "https://tv.ccsource.us.kg/live.txt", #ADDED BY LEM ON 08/12/2024
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt", #ADDED BY LEM ON 14/11/2024
