@@ -1,12 +1,9 @@
 ip_version_priority = "ipv4"
 
-source_urls = [
-    
-    "https://iptv.catvod.com/tv.m3u", #ADDED BY LEM ON 02/11/2025
-    "https://live.catvod.com/tv.m3u", #ADDED BY LEM ON 02/11/2025
+source_urls = [   
+    "http://tv.850930.xyz/cvd1.m3u", #ADDED BY LEM ON 02/11/2025
     "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt", #ADDED BY LEM ON 02/11/2025  
     "https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt", #ADDED BY LEM ON 02/11/2025
-    "http://tv.850930.xyz/gather.m3u" #ADDED BY LEM ON 02/11/2025
 
     
     '''
