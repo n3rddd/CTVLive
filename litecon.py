@@ -1,6 +1,12 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
+    "https://iptv.catvod.com/tv.m3u", #ADDED BY LEM ON 02/11/2025
+    "https://live.catvod.com/tv.m3u", #ADDED BY LEM ON 02/11/2025
+    "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt" #ADDED BY LEM ON 02/11/2025  
+    
+
+    '''
     "http://tv.850930.xyz/kdsb.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/kdsb2.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
@@ -36,6 +42,7 @@ source_urls = [
     "http://kxrj.site:55/lib/kx2024.txt", #ADDED BY LEM ON 22/10/2024
     "https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u", #奥运 ON 29/07/2024
     "https://gitlab.com/tvkj/qxitv/-/raw/main/888.txt" #ADDED BY LEM ON 29/07/2024
+    '''
 ]
 
 url_blacklist = [
