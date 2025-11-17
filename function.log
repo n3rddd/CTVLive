@@ -1,4 +1,4 @@
-2025-11-17 05:32:57,539 - INFO - url: http://tv.850930.xyz/cvd1.m3u 获取成功，判断为m3u格式
-2025-11-17 05:32:57,539 - INFO - url: http://tv.850930.xyz/cvd1.m3u 爬取成功✅，包含频道分类: 温馨提示, 咪咕央视, 咪咕体育, 咪咕卫视, 咪咕影视, 超清频道, 咪视界, 央视频道, 卫视频道, 影视频道
-2025-11-17 05:32:57,572 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 获取成功，判断为m3u格式
-2025-11-17 05:32:57,572 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 爬取成功✅，包含频道分类: 央视, 体育, 卫视, 地方, 影视, 新闻, 教育, 熊猫, 综艺, 少儿, 纪实
+2025-11-17 17:41:49,591 - INFO - url: http://tv.850930.xyz/cvd1.m3u 获取成功，判断为m3u格式
+2025-11-17 17:41:49,592 - INFO - url: http://tv.850930.xyz/cvd1.m3u 爬取成功✅，包含频道分类: 温馨提示, 咪咕央视, 咪咕体育, 咪咕卫视, 咪咕影视, 央视频道, 卫视频道, 影视频道, 4K频道
+2025-11-17 17:41:49,646 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 获取成功，判断为m3u格式
+2025-11-17 17:41:49,647 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 爬取成功✅，包含频道分类: 央视, 体育, 卫视, 地方, 影视, 新闻, 教育, 熊猫, 综艺, 少儿, 纪实
