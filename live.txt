@@ -2,7 +2,7 @@
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2025-12-13,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2025-12-14,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
 CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8$雷蒙影视•IPV4『线路1』
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8$雷蒙影视•IPV4『线路2』
