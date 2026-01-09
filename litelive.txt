@@ -28,6 +28,7 @@ CCTV-2财经,https://iptv.catvod.com/live.php?id=CCTV-2$雷蒙影视•IPV4『�
 CCTV-3综艺,https://iptv.catvod.com/live.php?id=CCTV-3$雷蒙影视•IPV4『线路1』
 CCTV-4中文国际,https://iptv.catvod.com/live.php?id=CCTV-4$雷蒙影视•IPV4『线路1』
 CCTV-5体育,https://iptv.catvod.com/live.php?id=CCTV-5$雷蒙影视•IPV4『线路1』
+CCTV-5+体育赛事,https://iptv.catvod.com/live.php?id=CCTV-5%2B$雷蒙影视•IPV4『线路1』
 CCTV-6电影,https://iptv.catvod.com/live.php?id=CCTV-6$雷蒙影视•IPV4『线路1』
 CCTV-7国防军事,https://iptv.catvod.com/live.php?id=CCTV-7$雷蒙影视•IPV4『线路1』
 CCTV-8电视剧,https://iptv.catvod.com/live.php?id=CCTV-8$雷蒙影视•IPV4『线路1』

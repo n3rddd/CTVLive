@@ -55,6 +55,8 @@ https://iptv.catvod.com/live.php?id=CCTV-3$雷蒙影视•IPV4『线路1』
 https://iptv.catvod.com/live.php?id=CCTV-4$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
 https://iptv.catvod.com/live.php?id=CCTV-5$雷蒙影视•IPV4『线路1』
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
+https://iptv.catvod.com/live.php?id=CCTV-5%2B$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-6电影.png" group-title="🇨🇳央视",CCTV-6电影
 https://iptv.catvod.com/live.php?id=CCTV-6$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-7国防军事.png" group-title="🇨🇳央视",CCTV-7国防军事
