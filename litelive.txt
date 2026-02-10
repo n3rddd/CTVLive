@@ -57,6 +57,7 @@ CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=13$雷蒙影视•IPV4『�
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=14$雷蒙影视•IPV4『线路14』
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=15$雷蒙影视•IPV4『线路15』
 CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=16$雷蒙影视•IPV4『线路16』
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV4&line=17$雷蒙影视•IPV4『线路17』
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=1$雷蒙影视•IPV4『线路1』
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=2$雷蒙影视•IPV4『线路2』
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=3$雷蒙影视•IPV4『线路3』
@@ -116,6 +117,7 @@ CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=4$雷蒙影视•IPV4『线
 CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=5$雷蒙影视•IPV4『线路5』
 CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=6$雷蒙影视•IPV4『线路6』
 CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=7$雷蒙影视•IPV4『线路7』
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=8$雷蒙影视•IPV4『线路8』
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=1$雷蒙影视•IPV4『线路1』
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=2$雷蒙影视•IPV4『线路2』
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=3$雷蒙影视•IPV4『线路3』
@@ -124,9 +126,6 @@ CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=5$雷蒙影视•IPV4『�
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=6$雷蒙影视•IPV4『线路6』
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=7$雷蒙影视•IPV4『线路7』
 CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=8$雷蒙影视•IPV4『线路8』
-CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=9$雷蒙影视•IPV4『线路9』
-CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=10$雷蒙影视•IPV4『线路10』
-CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=11$雷蒙影视•IPV4『线路11』
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=1$雷蒙影视•IPV4『线路1』
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=2$雷蒙影视•IPV4『线路2』
 CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=3$雷蒙影视•IPV4『线路3』
@@ -140,7 +139,6 @@ CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=3$雷蒙影视•IPV4『�
 CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=4$雷蒙影视•IPV4『线路4』
 CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=5$雷蒙影视•IPV4『线路5』
 CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=6$雷蒙影视•IPV4『线路6』
-CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=7$雷蒙影视•IPV4『线路7』
 CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=1$雷蒙影视•IPV4『线路1』
 CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=2$雷蒙影视•IPV4『线路2』
 CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=3$雷蒙影视•IPV4『线路3』
@@ -161,6 +159,7 @@ CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=2$雷蒙影视•IPV4『�
 CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=3$雷蒙影视•IPV4『线路3』
 CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=4$雷蒙影视•IPV4『线路4』
 CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=5$雷蒙影视•IPV4『线路5』
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=6$雷蒙影视•IPV4『线路6』
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=1$雷蒙影视•IPV4『线路1』
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=2$雷蒙影视•IPV4『线路2』
 CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=3$雷蒙影视•IPV4『线路3』
@@ -175,6 +174,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=4$雷蒙影视•IPV4『�
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=5$雷蒙影视•IPV4『线路5』
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=6$雷蒙影视•IPV4『线路6』
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=7$雷蒙影视•IPV4『线路7』
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=8$雷蒙影视•IPV4『线路8』
 CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4
 CCTV-2财经,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&wsSecret=3dac956b4fbe07d7ef6dfef53eaa5ab2&wsTime=69853d78$雷蒙影视•IPV4『线路1』
 CCTV-2财经,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78$雷蒙影视•IPV4『线路2』
@@ -202,13 +202,15 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=13$雷蒙影视•IPV4『线路13』
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=14$雷蒙影视•IPV4『线路14』
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=15$雷蒙影视•IPV4『线路15』
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$雷蒙影视•IPV4『线路16』
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$雷蒙影视•IPV4『线路17』
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=16$雷蒙影视•IPV4『线路16』
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$雷蒙影视•IPV4『线路17』
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$雷蒙影视•IPV4『线路18』
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=5$雷蒙影视•IPV4『线路5』
+东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=6$雷蒙影视•IPV4『线路6』
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
@@ -228,6 +230,7 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
+安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
@@ -237,14 +240,16 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
-深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4
+深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
+深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
+深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
+深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=5$雷蒙影视•IPV4『线路5』
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
+广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4
 厦门卫视,https://iptv.catvod.com/live.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 厦门卫视,https://iptv.catvod.com/live.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
@@ -268,7 +273,6 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
-黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5$雷蒙影视•IPV4『线路5』
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
@@ -277,6 +281,7 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5$雷蒙影视•IPV4『线路5』
+江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=6$雷蒙影视•IPV4『线路6』
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
@@ -285,7 +290,6 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=6$雷蒙影视•IPV4『线路6』
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=7$雷蒙影视•IPV4『线路7』
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=8$雷蒙影视•IPV4『线路8』
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=9$雷蒙影视•IPV4『线路9』
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
@@ -299,6 +303,7 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
+青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
@@ -313,10 +318,10 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
+新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
-云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
@@ -326,14 +331,13 @@ CCTV-16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8$雷蒙影视•IPV
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
-兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&line=4$雷蒙影视•IPV4『线路4』
 安多卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4
-康巴卫视,https://iptv.catvod.com/live.php?id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
-康巴卫视,https://iptv.catvod.com/live.php?id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
+康巴卫视,https://iptv.catvod.com/live.php?id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8$雷蒙影视•IPV4
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4『线路1』
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2$雷蒙影视•IPV4『线路2』
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=3$雷蒙影视•IPV4『线路3』
+延边卫视,https://iptv.catvod.com/live.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&line=1$雷蒙影视•IPV4
 🇹🇼台湾,#genre#
 🇭🇰香港,#genre#
 🇲🇴澳门,#genre#
