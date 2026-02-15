@@ -125,7 +125,7 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub$雷蒙影视•IPV4『线路7』
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路8』
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路9』
-湖南卫视,https://migu.188766.xyz/?migutoken=dc02aad69f2d1f8ece09b9314bb070c6&id=hnws&type=sz$雷蒙影视•IPV4『线路10』
+湖南卫视,https://migu.188766.xyz/?migutoken=7d7fb580b75bfc024af6f7634177b9ce&id=hnws&type=sz$雷蒙影视•IPV4『线路10』
 湖南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2$雷蒙影视•IPV6『线路11』
 浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$雷蒙影视•IPV4『线路1』
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$雷蒙影视•IPV4『线路2』
@@ -137,15 +137,15 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$雷蒙影视•IPV4『线路8』
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$雷蒙影视•IPV4『线路9』
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$雷蒙影视•IPV4『线路10』
-浙江卫视,https://migu.188766.xyz/?migutoken=9b3c857e5ebbdc39184b11cf5757d1a6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$雷蒙影视•IPV4『线路11』
-浙江卫视,https://migu.188766.xyz/?migutoken=204fe76bbe524626ee0e8bf239f03f7f&id=z_jws&type=sz$雷蒙影视•IPV4『线路12』
+浙江卫视,https://migu.188766.xyz/?migutoken=349141efc481ab37e79ce314b08bd2ef&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$雷蒙影视•IPV4『线路11』
+浙江卫视,https://migu.188766.xyz/?migutoken=8e355de1c888fd4bdf036f0e3d0a32de&id=z_jws&type=sz$雷蒙影视•IPV4『线路12』
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路13』
 东方卫视,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8$雷蒙影视•IPV4『线路1』
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$雷蒙影视•IPV4『线路2』
 东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8$雷蒙影视•IPV4『线路3』
 东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$雷蒙影视•IPV4『线路4』
 东方卫视,http://183.11.239.36:808/hls/114/index.m3u8$雷蒙影视•IPV4『线路5』
-东方卫视,https://migu.188766.xyz/?migutoken=958f2a8626ca00464a3fc4f65e0762dd&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
+东方卫视,https://migu.188766.xyz/?migutoken=b224222ec2dbf3c612faf16fc6e2a61f&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
 东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路7』
 北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$雷蒙影视•IPV4『线路1』
 北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8$雷蒙影视•IPV4『线路2』
@@ -157,7 +157,7 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8$雷蒙影视•IPV4『线路4』
 江苏卫视,http://182.150.23.74:808/hls/18/index.m3u8$雷蒙影视•IPV4『线路5』
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路6』
-江苏卫视,https://migu.188766.xyz/?migutoken=42692a2233f148974cbdd62ff86a1bc3&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路7』
+江苏卫视,https://migu.188766.xyz/?migutoken=576ba7d01ee15b4d74e77e4b09499a00&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路7』
 江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路8』
 安徽卫视,http://58.57.40.22:9901/tsfile/live/1033_1.m3u8$雷蒙影视•IPV4『线路1』
 安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8$雷蒙影视•IPV4『线路2』
@@ -194,7 +194,7 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$雷蒙影视•IPV4『线路1』
 广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8$雷蒙影视•IPV4『线路2』
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$雷蒙影视•IPV4『线路3』
-广东卫视,https://migu.188766.xyz/?migutoken=cf36cf01a3b76fa3a8c6d71760badca9&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
+广东卫视,https://migu.188766.xyz/?migutoken=945be6e5201580ee152eb865d725ddcf&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路5』
 广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8$雷蒙影视•IPV4『线路1』
 广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8$雷蒙影视•IPV4『线路2』
@@ -223,9 +223,8 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$雷蒙影视•IPV4『线路3』
 河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8$雷蒙影视•IPV4『线路4』
 河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$雷蒙影视•IPV4『线路5』
-河南卫视,http://pull-hls-f11.douyincdn.com/media/stream-695315145466839724.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771675718&major_anchor_level=common&sign=ac11a63f423866a14f340499d16d820e&t_id=037-20260214200838FABF0C668F35317370C9-7XsZ0Q$雷蒙影视•IPV4『线路6』
-河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$雷蒙影视•IPV4『线路7』
-河南卫视,https://migu.188766.xyz/?migutoken=6b17e583f35dcb03ee37df0b8a8dae30&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy$雷蒙影视•IPV4『线路8』
+河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$雷蒙影视•IPV4『线路6』
+河南卫视,https://migu.188766.xyz/?migutoken=caa214fe11a3ea9d406c2787f02c5e1e&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy$雷蒙影视•IPV4『线路7』
 黑龙江卫视,http://58.57.40.22:9901/tsfile/live/1040_1.m3u8$雷蒙影视•IPV4『线路1』
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$雷蒙影视•IPV4『线路2』
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8$雷蒙影视•IPV4『线路3』
@@ -233,13 +232,13 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 湖北卫视,http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$雷蒙影视•IPV4『线路1』
 湖北卫视,http://120.238.94.10:9901/tsfile/live/1055_1.m3u8$雷蒙影视•IPV4『线路2』
 湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8$雷蒙影视•IPV4『线路3』
-湖北卫视,https://migu.188766.xyz/?migutoken=ce2af111b40fdd833f8be4d5e1b0af7e&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
+湖北卫视,https://migu.188766.xyz/?migutoken=fd4c8f31188c7893dba3ead1308060c4&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
 湖北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路5』
 江西卫视,http://58.57.40.22:9901/tsfile/live/1043_1.m3u8$雷蒙影视•IPV4『线路1』
 江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$雷蒙影视•IPV4『线路2』
 江西卫视,http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$雷蒙影视•IPV4『线路3』
 江西卫视,http://182.150.23.74:808/hls/30/index.m3u8$雷蒙影视•IPV4『线路4』
-江西卫视,https://migu.188766.xyz/?migutoken=8ac73385ad97fe34f7496dc2358fa026&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路5』
+江西卫视,https://migu.188766.xyz/?migutoken=9f6c74b752a3090b2c1c27edff7cc5fc&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路5』
 江西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路6』
 吉林卫视,http://58.57.40.22:9901/tsfile/live/1050_1.m3u8$雷蒙影视•IPV4『线路1』
 吉林卫视,http://111.61.236.247:9081/hls/45/index.m3u8$雷蒙影视•IPV4『线路2』
@@ -247,33 +246,32 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8$雷蒙影视•IPV4『线路4』
 吉林卫视,http://182.150.23.74:808/hls/35/index.m3u8$雷蒙影视•IPV4『线路5』
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路6』
-吉林卫视,https://migu.188766.xyz/?migutoken=201a6769fb6c0a0854c1563874373269&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路7』
+吉林卫视,https://migu.188766.xyz/?migutoken=85bbce2082db2cad8fe50c2f9c0af84a&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路7』
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路8』
 内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8$雷蒙影视•IPV4『线路1』
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8$雷蒙影视•IPV4『线路2』
 内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8$雷蒙影视•IPV4『线路3』
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$雷蒙影视•IPV4『线路4』
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0$雷蒙影视•IPV4『线路5』
-内蒙古卫视,https://migu.188766.xyz/?migutoken=f4363cd3dbcad9954ac1ce968e2dfc16&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1$雷蒙影视•IPV4『线路6』
+内蒙古卫视,https://migu.188766.xyz/?migutoken=70cd4e84f5f14112f7eac85da5ab3db4&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1$雷蒙影视•IPV4『线路6』
 内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路7』
 辽宁卫视,http://58.57.40.22:9901/tsfile/live/1035_1.m3u8$雷蒙影视•IPV4『线路1』
 辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8$雷蒙影视•IPV4『线路2』
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8$雷蒙影视•IPV4『线路3』
-辽宁卫视,http://pull-hls-f11.douyincdn.com/media/stream-118853253582553772.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771677880&major_anchor_level=common&sign=317017d5b1f131df1e41b8f846db596e&t_id=037-20260214204439F90766601161ABB3CC7C-TjxDiE$雷蒙影视•IPV4『线路4』
-辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路5』
-辽宁卫视,https://migu.188766.xyz/?migutoken=18f94ac7d4ec45445939132d747a7ebb&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
-辽宁卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路7』
+辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路4』
+辽宁卫视,https://migu.188766.xyz/?migutoken=205451b8a731ca465b2cf44d772b0b99&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路5』
+辽宁卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路6』
 宁夏卫视,http://58.57.40.22:9901/tsfile/live/1054_1.m3u8$雷蒙影视•IPV4『线路1』
 宁夏卫视,http://120.238.94.10:9901/tsfile/live/1076_1.m3u8$雷蒙影视•IPV4『线路2』
 宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8$雷蒙影视•IPV4『线路3』
 宁夏卫视,http://111.61.236.247:9081/hls/51/index.m3u8$雷蒙影视•IPV4『线路4』
 宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8$雷蒙影视•IPV4『线路5』
-宁夏卫视,https://migu.188766.xyz/?migutoken=c58b3040bbd9584b6af1089350637a53&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
+宁夏卫视,https://migu.188766.xyz/?migutoken=c52d2cbc855f54e31cfb6e86fc7cd755&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
 宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路7』
 青海卫视,http://58.57.40.22:9901/tsfile/live/1057_1.m3u8$雷蒙影视•IPV4『线路1』
 青海卫视,http://120.238.94.10:9901/tsfile/live/1073_1.m3u8$雷蒙影视•IPV4『线路2』
 青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$雷蒙影视•IPV4『线路3』
-青海卫视,https://migu.188766.xyz/?migutoken=d0d1dfc0bedd70bf22187a47bb4cd1f1&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
+青海卫视,https://migu.188766.xyz/?migutoken=ff97a3f61f143823adfa4eceb7f030be&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
 青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路5』
 山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8$雷蒙影视•IPV4『线路1』
 山东卫视,http://182.150.23.74:808/hls/23/index.m3u8$雷蒙影视•IPV4『线路2』
@@ -290,8 +288,8 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8$雷蒙影视•IPV4『线路2』
 海南卫视,http://183.11.239.36:808/hls/124/index.m3u8$雷蒙影视•IPV4『线路3』
 海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8$雷蒙影视•IPV4『线路4』
-海南卫视,https://migu.188766.xyz/?migutoken=fd930d8e523840346556c58aa9daa599&id=hn_hnws&type=sz$雷蒙影视•IPV4『线路5』
-海南卫视,https://migu.188766.xyz/?migutoken=c84d6e8547927efb224e6c52085af7ba&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
+海南卫视,https://migu.188766.xyz/?migutoken=ce2542c16577b0b4239eea7927e08352&id=hn_hnws&type=sz$雷蒙影视•IPV4『线路5』
+海南卫视,https://migu.188766.xyz/?migutoken=d96fa5a3315172147737b1ee519d2989&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路6』
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路7』
 新疆卫视,http://58.57.40.22:9901/tsfile/live/1055_1.m3u8$雷蒙影视•IPV4『线路1』
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8$雷蒙影视•IPV4『线路2』
@@ -314,30 +312,30 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8$雷蒙影视•IPV4『线路1』
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8$雷蒙影视•IPV4『线路2』
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路3』
-兵团卫视,https://migu.188766.xyz/?migutoken=baa94ec39240370a72cd3218a8002296&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
+兵团卫视,https://migu.188766.xyz/?migutoken=ba396888c183923a386981face4e0cc1&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路4』
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8$雷蒙影视•IPV4
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6
-农林卫视,https://migu.188766.xyz/?migutoken=2aeca5a3b3267119edcd4bec5aa3f7a8&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路1』
+农林卫视,https://migu.188766.xyz/?migutoken=837bdd858d9ca1ffc6134e306b2c3fc7&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路1』
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8$雷蒙影视•IPV4『线路2』
-三沙卫视,https://migu.188766.xyz/?migutoken=6ce632bb30178b8284f571f67a9981c1&id=hn_ssws&type=sz$雷蒙影视•IPV4
+三沙卫视,https://migu.188766.xyz/?migutoken=01cffeaa811d92762c83a9b8260f8553&id=hn_ssws&type=sz$雷蒙影视•IPV4
 延边卫视,http://gmxw.7766.org:808/hls/15/index.m3u8$雷蒙影视•IPV4『线路1』
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$雷蒙影视•IPV4『线路2』
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$雷蒙影视•IPV4『线路3』
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路4』
 🇭🇰香港,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=fb62e21fea59ca67ffc404217e6ea48b&id=fhzw&pp=1$雷蒙影视•IPV4『线路1』
-凤凰中文,https://mgev.188766.xyz/?migutoken=03e87f5e3f7904b788fd4aea12f418f6&id=hk_fhzw&type=dy$雷蒙影视•IPV4『线路2』
-凤凰资讯,https://mgev.188766.xyz/?migutoken=8a525cac822fe253d5165496a08783d8&id=fhzx&pp=1$雷蒙影视•IPV4『线路1』
-凤凰资讯,https://mgev.188766.xyz/?migutoken=ff8a0bc65d5c6addf56e949c37e36ad2&id=hk_fhzx&type=dy$雷蒙影视•IPV4『线路2』
-凤凰香港,https://mgev.188766.xyz/?migutoken=92cfbb3480c5204091ef44cba66066ba&id=fhhk&pp=1$雷蒙影视•IPV4『线路1』
-凤凰香港,https://mgev.188766.xyz/?migutoken=cc3f40366d1f90b4fd07dee32f4fff1c&id=hk_fhhk&type=dy$雷蒙影视•IPV4『线路2』
+凤凰中文,https://mgev.188766.xyz/?migutoken=8d1f83e0799cd95ba2ed577e0018634a&id=fhzw&pp=1$雷蒙影视•IPV4『线路1』
+凤凰中文,https://mgev.188766.xyz/?migutoken=03007f7b62ed3b1bf462fb1370e9856e&id=hk_fhzw&type=dy$雷蒙影视•IPV4『线路2』
+凤凰资讯,https://mgev.188766.xyz/?migutoken=bcc347844f351d18eedca8e8a5558294&id=fhzx&pp=1$雷蒙影视•IPV4『线路1』
+凤凰资讯,https://mgev.188766.xyz/?migutoken=a6fb43c2021b7dd400a11d1c9f4efd47&id=hk_fhzx&type=dy$雷蒙影视•IPV4『线路2』
+凤凰香港,https://mgev.188766.xyz/?migutoken=f75f3e432bb98783138b94dda3e3f838&id=fhhk&pp=1$雷蒙影视•IPV4『线路1』
+凤凰香港,https://mgev.188766.xyz/?migutoken=dd6573767eead316fae8d4a09348a020&id=hk_fhhk&type=dy$雷蒙影视•IPV4『线路2』
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$雷蒙影视•IPV4
-翡翠台,https://mgev.188766.xyz/?migutoken=1858e97f7ffd00ceae8ded5b8c58008e&id=hk_fct&type=dy$雷蒙影视•IPV4
-TVB Plus,https://mgev.188766.xyz/?migutoken=8bc32cc417a00d71593cb9cc9403d2ee&id=hk_tvbp&type=dy$雷蒙影视•IPV4
-明珠台,https://mgev.188766.xyz/?migutoken=9a6b45714b17c22e9a9b564834056b57&id=hk_mzt&type=dy$雷蒙影视•IPV4
-TVB星河,https://mgev.188766.xyz/?migutoken=23fb4c97cc01491cb190d5ea490f2be1&id=hk_tvbxh&type=dy$雷蒙影视•IPV4
+翡翠台,https://mgev.188766.xyz/?migutoken=a2762a251a5c683983a39aaccd133a2e&id=hk_fct&type=dy$雷蒙影视•IPV4
+TVB Plus,https://mgev.188766.xyz/?migutoken=d5e7116776e155735ea14f9a07954040&id=hk_tvbp&type=dy$雷蒙影视•IPV4
+明珠台,https://mgev.188766.xyz/?migutoken=9d01281e4a11877f107b27d57163271a&id=hk_mzt&type=dy$雷蒙影视•IPV4
+TVB星河,https://mgev.188766.xyz/?migutoken=1f8c08b8867a9bf591c9add7536b4dab&id=hk_tvbxh&type=dy$雷蒙影视•IPV4
 🇹🇼台湾,#genre#
-无线新闻,https://mgev.188766.xyz/?migutoken=f04aeba0ea121df4c7c204dcf0ba738c&id=hk_wxxw&type=dy$雷蒙影视•IPV4
+无线新闻,https://mgev.188766.xyz/?migutoken=79665d26b06897320fbdd3ad3c44074d&id=hk_wxxw&type=dy$雷蒙影视•IPV4
 🇲🇴澳门,#genre#
 🥘重庆,#genre#
 🎞影视,#genre#
