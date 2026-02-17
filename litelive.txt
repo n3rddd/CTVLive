@@ -2,14 +2,13 @@
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-02-17,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2026-02-18,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
 CCTV-1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$雷蒙影视•IPV4『线路1』
 CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4『线路2』
-CCTV-2财经,http://pull-hls-f1.douyincdn.com/media/stream-407062262674621100/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026021706395558F2F10AA5E3F12280D0-sgXKcX&wsSecret=b69a50dfd754a332493dacd30de076ee&wsTime=69939cbc$雷蒙影视•IPV4『线路1』
-CCTV-2财经,http://pull-flv-f1.douyincdn.com/media/stream-407062262674621100.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026021706395558F2F10AA5E3F12280D0-sgXKcX&unique_id=stream-407062262674621100_684_flv&wsSecret=a45caa446d41366171d8da0f6037aa78&wsTime=69939cbc$雷蒙影视•IPV4『线路2』
 CCTV-3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub$雷蒙影视•IPV4
 CCTV-5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$雷蒙影视•IPV4
+CCTV-17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-118870000332440236.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771931257&major_anchor_level=common&sign=12c6cddd8ea8047020d3de66e40b35a2&t_id=037-20260217190736278442E4DF65A4BD3EE7-xrQ3b5$雷蒙影视•IPV4
 🇨🇳高清,#genre#
 📡卫视,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$雷蒙影视•IPV4『线路1』
