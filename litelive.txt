@@ -2,13 +2,14 @@
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-02-20,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2026-02-21,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
-CCTV-1综合,http://pull-hls-f11.douyincdn.com/media/stream-118887378976768684.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772168882&major_anchor_level=common&sign=22dab21cc115d794497b9616315583ca&t_id=037-2026022013080254B030316C5A9F6CBEED-CjxhXL$雷蒙影视•IPV4『线路1』
-CCTV-1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$雷蒙影视•IPV4『线路2』
-CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4『线路3』
+CCTV-1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$雷蒙影视•IPV4『线路1』
+CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4『线路2』
 CCTV-3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub$雷蒙影视•IPV4
 CCTV-5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$雷蒙影视•IPV4
+CCTV-15音乐,http://pull-hls-f26.douyincdn.com/media/stream-695349902016774828.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69a191bf&major_anchor_level=common&sign=5ad27854acd9df43956065d2f63fb2c5&t_id=037-2026022020444656C12FEC201C3BB4F957-VD6oom$雷蒙影视•IPV4
+CCTV-17农业农村,http://pull-hls-f26.douyincdn.com/media/stream-407114775226483372.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69a0d33a&major_anchor_level=common&sign=01cb7902aaf97c4ccfdd47e1a0c69993&t_id=037-2026022007115431AEF4908D471723773C-fk2LDJ$雷蒙影视•IPV4
 🇨🇳高清,#genre#
 📡卫视,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$雷蒙影视•IPV4『线路1』
