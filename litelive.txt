@@ -5,7 +5,6 @@ CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3R
 2026-04-02,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
 CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4
-CCTV-6电影,http://pull-hls-f11.douyincdn.com/media/stream-695580946287821484.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775650732&major_anchor_level=common&sign=cf57f676f2c5691a3565f84e57bc290e&t_id=037-2026040120185124F4C5C6035EB1B97F01-SHzUTy$雷蒙影视•IPV4
 CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695579599148417708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775651827&major_anchor_level=common&sign=25aa61acbb8c946b2ee9ebd23cb4f905&t_id=037-202604012037061F5AB8029BCE7A81E5C7-0wCcv3$雷蒙影视•IPV4『线路1』
 CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695522156380160684.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775651891&major_anchor_level=common&sign=0b8a1223954171ad2937d560903e2cc1&t_id=037-20260401203810D6AE37758BBB927B4BD7-LlJcoa$雷蒙影视•IPV4『线路2』
 CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775651921&major_anchor_level=common&sign=0f3e5eb58649c980acb45c230fbd212e&t_id=037-20260401203840F95EAF06830CA99FC12D-5ue7Hg$雷蒙影视•IPV4『线路3』
