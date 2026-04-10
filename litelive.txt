@@ -9,6 +9,7 @@ CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695579599148417708.
 CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776158091&major_anchor_level=common&sign=b6ff08dbb56dc9d66ae8fbe7a039d11e&t_id=037-202604071714506C37CC7AC813301C7CED-7CmlV9$雷蒙影视•IPV4『线路2』
 CCTV-16奥林匹克,http://69.30.246.194/live/cctv16.m3u8$雷蒙影视•IPV4『线路1』
 CCTV-16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$雷蒙影视•IPV4『线路2』
+CCTV-17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-695628960938590892.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776388385&major_anchor_level=common&sign=9148eda0c1121380f7266ebe2881a929&t_id=037-202604100913042E921560E43595D1D2E1-ycYyLY$雷蒙影视•IPV4
 🇨🇳高清,#genre#
 📡卫视,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$雷蒙影视•IPV4『线路1』
