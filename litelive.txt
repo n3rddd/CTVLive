@@ -2,11 +2,12 @@
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-04-11,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2026-04-12,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇨🇳央视,#genre#
 CCTV-1综合,http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4
 CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU$雷蒙影视•IPV4『线路1』
-CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E$雷蒙影视•IPV4『线路2』
+CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776484602&major_anchor_level=common&sign=a5a34bdff07cfb060a010c0b632ce79b&t_id=037-202604111156410DCF4EC4BFF47B6D364C-f47Nti$雷蒙影视•IPV4『线路2』
+CCTV-13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E$雷蒙影视•IPV4『线路3』
 CCTV-16奥林匹克,http://69.30.246.194/live/cctv16.m3u8$雷蒙影视•IPV4『线路1』
 CCTV-16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$雷蒙影视•IPV4『线路2』
 CCTV-17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-695634920884667052.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776475106&major_anchor_level=common&sign=297ebc9721578fcf87a1540dee5ecebf&t_id=037-20260411091825DAF9B44162D5A50BE14B-2t3jM5$雷蒙影视•IPV4
