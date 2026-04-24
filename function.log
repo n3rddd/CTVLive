@@ -1,4 +1,4 @@
-2026-04-24 18:48:01,327 - INFO - url: http://tv.850930.xyz/cvd1.m3u 获取成功，判断为m3u格式
-2026-04-24 18:48:01,328 - INFO - url: http://tv.850930.xyz/cvd1.m3u 爬取成功✅，包含频道分类: 公告, 卫视, 咪视, 其他, 央视, 提示
-2026-04-24 18:48:01,357 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 获取成功，判断为m3u格式
-2026-04-24 18:48:01,358 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 黑龙江地区, 陕西地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
+2026-04-25 06:05:26,745 - INFO - url: http://tv.850930.xyz/cvd1.m3u 获取成功，判断为m3u格式
+2026-04-25 06:05:26,745 - INFO - url: http://tv.850930.xyz/cvd1.m3u 爬取成功✅，包含频道分类: 公告, 咪视, 卫视, 其他, 央视, 提示
+2026-04-25 06:05:26,786 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 获取成功，判断为m3u格式
+2026-04-25 06:05:26,787 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 广东地区, 湖南地区, 浙江地区, 江苏地区, 黑龙江地区, 陕西地区, 云南地区, 福建地区, 河南地区, 甘肃地区, 超清频道
