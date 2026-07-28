@@ -22,7 +22,9 @@ https://iptv.catvod.com/migu?id=608807416&token=01c8469b97697672e0f1e9036c3e302f
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4欧洲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4欧洲.png" group-title="🇨🇳央视",CCTV-4欧洲
 https://iptv.catvod.com/migu?id=608807419&token=460d2eb6c7e87510279ee896146f0018$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-https://iptv.catvod.com/migu?id=641886683&token=f4179e314de7b47ad5ccfbc011f199d9$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=641886683&token=f4179e314de7b47ad5ccfbc011f199d9$雷蒙影视•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=b015b7b7161d3e2bfdc2429234a353e1&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260728113548&Channel_ID=0116_2600034600-99000-201600010015076&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=120.232.211.227&SecurityKey=20260728113548&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1327b631f9dd1df81b8d27b9948f686&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
 https://iptv.catvod.com/migu?id=641886773&token=72d619df701ad89f966181acc5247bc7$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-6电影.png" group-title="🇨🇳央视",CCTV-6电影

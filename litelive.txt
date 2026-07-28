@@ -11,7 +11,8 @@ CCTV-3综艺,https://iptv.catvod.com/migu?id=624878271&token=658cd5e6e4d1c33d8cc
 CCTV-4中文国际,https://iptv.catvod.com/migu?id=631780421&token=b6ab7b8d8b611a206bf2b7da54b69025$雷蒙影视•IPV4
 CCTV-4美洲,https://iptv.catvod.com/migu?id=608807416&token=01c8469b97697672e0f1e9036c3e302f$雷蒙影视•IPV4
 CCTV-4欧洲,https://iptv.catvod.com/migu?id=608807419&token=460d2eb6c7e87510279ee896146f0018$雷蒙影视•IPV4
-CCTV-5体育,https://iptv.catvod.com/migu?id=641886683&token=f4179e314de7b47ad5ccfbc011f199d9$雷蒙影视•IPV4
+CCTV-5体育,https://iptv.catvod.com/migu?id=641886683&token=f4179e314de7b47ad5ccfbc011f199d9$雷蒙影视•IPV4『线路1』
+CCTV-5体育,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=b015b7b7161d3e2bfdc2429234a353e1&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260728113548&Channel_ID=0116_2600034600-99000-201600010015076&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=120.232.211.227&SecurityKey=20260728113548&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1327b631f9dd1df81b8d27b9948f686&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
 CCTV-5+体育赛事,https://iptv.catvod.com/migu?id=641886773&token=72d619df701ad89f966181acc5247bc7$雷蒙影视•IPV4
 CCTV-6电影,https://iptv.catvod.com/migu?id=624878396&token=4ed102198f9a8f2146c2bcfb4c59bcf3$雷蒙影视•IPV4
 CCTV-7国防军事,https://iptv.catvod.com/migu?id=673168121&token=d67e003867ff8591b8b50fa338ea35d8$雷蒙影视•IPV4
