@@ -5,80 +5,54 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON3.png" group-title="🤠雷蒙影视直播",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="2026-07-31" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠雷蒙影视直播",2026-07-31
+#EXTINF:-1 tvg-id="1" tvg-name="2026-08-01" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠雷蒙影视直播",2026-08-01
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-https://iptv.catvod.com/migu?id=608807420&token=8c1d728d86975a82d4c047df8ac6e319$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=608807420&token=73f71878db713d6980e1d184504bb13b$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=d6380a16da717712ab9a4cba89d53557&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260731113949&Channel_ID=0116_2600034600-99000-201600010036120&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=122.156.145.125&SecurityKey=20260731113949&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7558730afd46f8ad1923ca89b3364988&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4『线路3』
+http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-https://iptv.catvod.com/migu?id=631780532&token=605c9cd96b46527d41ce87cfbe09420c$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=631780532&token=4030773b3fdcedfa25fc8c21cf3fd00d$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-https://iptv.catvod.com/migu?id=624878271&token=05aafcfeac6dc052df3f60178633d23a$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260731113711&Channel_ID=0116_2600034600-99000-201600010000595&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=221.210.231.48&SecurityKey=20260731113711&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bcb18e1dbd8e5b2ec5b66cb3901f5d86&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260731113627&Channel_ID=0116_2600034600-99000-201600010079463&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=221.210.231.173&SecurityKey=20260731113627&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14c92d7b1eba2bf0efd7818ac6fcb341&sv=10004&ct=android$雷蒙影视•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260731113201&Channel_ID=0116_2600034600-99000-201600010008935&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=221.210.223.5&SecurityKey=20260731113201&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=33d7ac7bc42276b61765261c1afa1c24&sv=10004&ct=android$雷蒙影视•IPV4『线路4』
+https://iptv.catvod.com/migu?id=624878271&token=ddb054870879097ed7effd4298299567$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4中文国际.png" group-title="🇨🇳央视",CCTV-4中文国际
-https://iptv.catvod.com/migu?id=631780421&token=c95fd2957c388b1f2dc551c097bec563$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4中文国际.png" group-title="🇨🇳央视",CCTV-4中文国际
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260731113349&Channel_ID=0116_2600034600-99000-201600010019985&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=60.14.59.131&SecurityKey=20260731113349&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8adbd86b9b7e988e4b96837b2e4b88f3&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4中文国际.png" group-title="🇨🇳央视",CCTV-4中文国际
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260731113059&Channel_ID=0116_2600034600-99000-201600010052638&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=60.15.54.102&SecurityKey=20260731113059&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d4efe5c5f83852bdc374555ba246cec8&sv=10004&ct=android$雷蒙影视•IPV4『线路3』
+https://iptv.catvod.com/migu?id=631780421&token=9af002f890f496e726740300e48b77cd$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4美洲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4美洲.png" group-title="🇨🇳央视",CCTV-4美洲
-https://iptv.catvod.com/migu?id=608807416&token=0ddc273dc82174783483f91b01eb4f47$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=608807416&token=fbf1295116449d3719345c6a9c215bed$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4欧洲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-4欧洲.png" group-title="🇨🇳央视",CCTV-4欧洲
-https://iptv.catvod.com/migu?id=608807419&token=dafb86cc8e7c8f90646fde871d6ac162$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=608807419&token=b9e9c46165cc7813df84b470864febfd$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-https://iptv.catvod.com/migu?id=641886683&token=3275460a8235e7084c400640776e7338$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=641886683&token=9ed5139d328fbbd32f558f7e93bd3ac2$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
-https://iptv.catvod.com/migu?id=641886773&token=fd2de4e315e5c2643816ada1d7b9e631$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260731112901&Channel_ID=0116_2600034600-99000-201600010055248&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=60.15.54.34&SecurityKey=20260731112901&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6c915128e5c8e4ca44fa3cd7ee151f3&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=641886773&token=4576dbdf98e38909920a7b954b726adb$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-6电影.png" group-title="🇨🇳央视",CCTV-6电影
-https://iptv.catvod.com/migu?id=624878396&token=6450a2e3387de709ff97ecddf3313595$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-6电影.png" group-title="🇨🇳央视",CCTV-6电影
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260731112718&Channel_ID=0116_2600034600-99000-201600010006972&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=221.211.17.197&SecurityKey=20260731112718&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8ce92039cce6fb8332ec92413ccd33bc&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=624878396&token=554ad64d02895b710c4a913c63deb278$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-7国防军事.png" group-title="🇨🇳央视",CCTV-7国防军事
-https://iptv.catvod.com/migu?id=673168121&token=2cd2700927aa18003c9fbe57da88fbaf$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=673168121&token=541ab8477c421a4da2661ca0a94ef91a$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-8电视剧.png" group-title="🇨🇳央视",CCTV-8电视剧
-https://iptv.catvod.com/migu?id=624878356&token=4dde5fc2ad9d63e654be75b6f9320f61$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-8电视剧.png" group-title="🇨🇳央视",CCTV-8电视剧
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260731112539&Channel_ID=0116_2600034600-99000-201600010042416&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=218.8.153.164&SecurityKey=20260731112539&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=200d0c16c74e5d3f26f0a8efb6fb3750&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=624878356&token=589481817d08994809d67fdf6b897dde$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-9纪录" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-9纪录.png" group-title="🇨🇳央视",CCTV-9纪录
-https://iptv.catvod.com/migu?id=673168140&token=08719d1074ad98033e17609ec6bdaf33$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=673168140&token=d6865db7c7b02d89547f6a4ceac597c2$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-https://iptv.catvod.com/migu?id=624878405&token=4dbfa47035f8a49ed29df103ba40cb0d$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260731112350&Channel_ID=0116_2600034600-99000-201600010067285&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=1.190.85.220&SecurityKey=20260731112350&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4fb6f323a39502031a498254e3b3d2e8&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=624878405&token=21abb3350648e043447fea62febefdb0$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-11戏曲.png" group-title="🇨🇳央视",CCTV-11戏曲
-https://iptv.catvod.com/migu?id=667987558&token=11a40373de95bcba62e0c9c67a4037b9$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-11戏曲.png" group-title="🇨🇳央视",CCTV-11戏曲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260731112316&Channel_ID=0116_2600034600-99000-201600010056704&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=1.190.85.239&SecurityKey=20260731112316&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=68449831a18378105aa58f323793928d&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=667987558&token=2646b22fd04daefd42ae1b2ef63d26f9$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-12社会与法" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-12社会与法.png" group-title="🇨🇳央视",CCTV-12社会与法
-https://iptv.catvod.com/migu?id=673168185&token=e68726c00a2ee495b1106236db818940$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=673168185&token=9052e1744335928b245068b3f65f71da$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-https://iptv.catvod.com/migu?id=608807423&token=8a93ef47d60e6cc78448f5f4a712700c$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260731112047&Channel_ID=0116_2600034600-99000-201600010068421&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=218.9.21.37&SecurityKey=20260731112047&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aca72ec19004416814dd1ebc31f62725&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=608807423&token=043ebd88041f5423adfd589f42f77bdf$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-14少儿.png" group-title="🇨🇳央视",CCTV-14少儿
-https://iptv.catvod.com/migu?id=624878440&token=26ff12bb37f57b6727986268b3479ce5$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=624878440&token=c154682f116be9bb98b69ce055a03df6$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-14少儿.png" group-title="🇨🇳央视",CCTV-14少儿
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260731112211&Channel_ID=0116_2600034600-99000-201600010046960&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=1.190.85.244&SecurityKey=20260731112211&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=52539d602b88983b95a3dd8343c83aeb&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+http://txycdn5.video.qq.com/1755770102.m3u8?time=1785487331&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIIo3m5M3v1wWKwXDeI0gi2Rujdpo4OkjOBzhldFeW3xvECXoaDM8nzvxiKs8STanCMIBcJ0U5z1kM-TVA2lKoaSKDb-PGTxCjF7BYgyXWc3n0N-KCiDWnDkZjgqsGUD7uvho31-3xeaxqZxyy7LYMT44ZxgcHHghW5bZamaUGYPKL-OvxLvSa23mnJSF-jsZcAg3yZzOjMuUQrHWw7frN8w3RRbpuUD00efB_6XT0vSOITggYD2iOhv05EQbkouCRgjiD6zXGbMnEx5UCgu1wXjRvCVZp6aQFMAUSGka0zPfh3Ijs1sg9LKw8833LOAYLWAeLRezuqC0GDBKTpg7wBEVgIf-1gRWQWO0WFE97Ugk2UUXPeR5QYDAQ6eVkiKkuDdAsO6FMayTq-bRFxO6yEqnu5pSaj9gCp-S2Y0T9ZiSBsNUBfyR2gCutqfSumwC-2BGSmALFgE6QWw_c2n8Guo56J43uiEIULtf4n5kPXRIS1YnsGP3Q--5Fv3gsmphObBkFF0fd3vKvpdb_yHsn1Nil2sdO49m9KGhq21_D3EhUCRX&drmtype=0$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-15音乐.png" group-title="🇨🇳央视",CCTV-15音乐
-https://iptv.catvod.com/migu?id=673168223&token=903d7608040a1ab147de30d6c828089d$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=673168223&token=7acf2bddd8f2e6d35fb4ddb3b36c9719$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-15音乐.png" group-title="🇨🇳央视",CCTV-15音乐
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260731112130&Channel_ID=0116_2600034600-99000-201600010065218&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=1.190.85.87&SecurityKey=20260731112130&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3d3e5d4a90d189285ef26edaeea36cdc&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+http://txycdn2.video.qq.com/1370782102.m3u8?time=1785487287&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIMhCRPBXC-W0Cz0h9xihDQ-qshFX7546uacIVnHGKPf5EM5wb6xxS2ilvy9UUGdx0xABcI6NC7JrL7QFXmbI6mTRc13771Ma-3O861FKj_A57qha9_Rlty2Ocy-pR-PAFtWb9f1GRFVbnUGVVEm0keiusv3YI0eI343frcOlDBOxihM0YhrH9oOKVJQyhFUl2eZhBSuhNv_qfs-NGaaZ2XfPa_TH0IzyEnBTQgNhChE4k_ttkUOpRf2qrLJAr9VEKsQWAWSBcOeZ3ml7_Lrvghrw7XUz6I1E0rBPkZpggJYecJRFJST4yjnaejm1XsvxJ_qMM_-2dwiGuZIf85xZL39tQ_DmQzUOISOW44UqYFcYTiejFnfUw1fIT-55o00vLA-BNAFu1O5bX8wtt0kRr2xXZLqHuSagMW-yyNNpc--zgJCpexFjPmNWc4el42eszccB0txAezv3UhrJWEE_n03a6-cyqOASV3iEzYPiLxmoy_ZHovEHre2pOeeEf2-kJ0YqPlSKt1VJWxT_cOpjOC8E9g0p9OOMeZiOSzZ8UFv1023b&drmtype=0$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-16奥林匹克" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-16奥林匹克.png" group-title="🇨🇳央视",CCTV-16奥林匹克
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-17农业农村.png" group-title="🇨🇳央视",CCTV-17农业农村
-https://iptv.catvod.com/migu?id=673168256&token=4c4f2cf40e07a9d69f1ae963f6b79e6f$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CCTV-17农业农村.png" group-title="🇨🇳央视",CCTV-17农业农村
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260731112013&Channel_ID=0116_2600034600-99000-201600010066325&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.9.21.37&SecurityKey=20260731112013&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7cd591446128ab02c502b32e875efe0c&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=673168256&token=337bb4a80bb8ed0f2e35e93442f218a4$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="📡卫视",湖南卫视
@@ -94,61 +68,57 @@ http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$雷蒙影视•IPV4『线路
 #EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="📡卫视",浙江卫视
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="📡卫视",东方卫视
-https://iptv.catvod.com/migu?id=651632648&token=7a4482f1c1b79e0588c05595b1657ada$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=651632648&token=8a0f6db63b3d767bafa7a28f7304600c$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-https://iptv.catvod.com/migu?id=630287636&token=d778c76963bebd733208fb3e3af4c841$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="📡卫视",北京卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260731111836&Channel_ID=0116_2600034600-99000-201600010084504&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.9.21.67&SecurityKey=20260731111836&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=41c4efa8a56f1a2b2aa8e07820f961c5&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=630287636&token=fb65c1c488b9fe7703141f00c17f0d44$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="📡卫视",江苏卫视
-https://iptv.catvod.com/migu?id=623899368&token=0f55492d4cdf9e92b368363e741d2ca2$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=623899368&token=62c132cbc7b6ce83b70a01644e1138e2$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="📡卫视",江苏卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260731111805&Channel_ID=0116_2600034600-99000-201600010090980&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=218.9.21.43&SecurityKey=20260731111805&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=028ee8c68847358adc0a3fca89525807&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="📡卫视",江苏卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路3』
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="📡卫视",重庆卫视
-https://iptv.catvod.com/migu?id=738910914&token=7139d1a3a5b54c289c15b0c6a1c41941$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=738910914&token=1a6eb7b02592e4a0a81241692f2c9f48$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="📡卫视",重庆卫视
 https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="📡卫视",东南卫视
-https://iptv.catvod.com/migu?id=849116810&token=27b16b69d8cb26e9719fd76531d98055$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=849116810&token=258003dc535a31f965260747b1755430$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="📡卫视",东南卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=d1379fd99e2cf37138d9ad7f00675ddf&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260731223256&Channel_ID=0116_2600034600-99000-201600010056450&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=36.137.48.31&SecurityKey=20260731223256&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=afe84314a94599f3f286814a83789674&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="📡卫视",东南卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="📡卫视",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="📡卫视",广东卫视
-https://iptv.catvod.com/migu?id=608831231&token=67d2ad7c13dca1c2cd3332337268c452$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=608831231&token=89c5ceddf7d8aec85d001c3e9870079a$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河北卫视.png" group-title="📡卫视",河北卫视
-https://iptv.catvod.com/migu?id=962042070&token=d3d88a9cdec92125be3f3dc219a3f3c5$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=962042070&token=f7350d5f30a1d00a5dcbc19d73cbecc4$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="📡卫视",河南卫视
-https://iptv.catvod.com/migu?id=790187291&token=a81d1b9b6dd92ea21e3a8de663078f12$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=790187291&token=1060e17d9740b1a45878ea8fd4a5a061$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
-https://iptv.catvod.com/migu?id=738906901&token=ed5ce69144a450e10048f80bac5f63ce$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260731111351&Channel_ID=0116_2600034600-99000-201600010067805&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=125.211.195.109&SecurityKey=20260731111351&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=43e259b5140344fd5fe8dfbe77c57874&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+https://iptv.catvod.com/migu?id=738906901&token=5cf9e6c3a2b0c943091dba199efd2ac0$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="📡卫视",湖北卫视
-https://iptv.catvod.com/migu?id=947472496&token=d23ad96d1de1b8f1aadac15c19a74d4e$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=947472496&token=a528255e892aca84e421c18903ccfe43$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="📡卫视",湖北卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260731111725&Channel_ID=0116_2600034600-99000-201600010010098&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=125.211.195.113&SecurityKey=20260731111725&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0eb9e06cb66681265f9442df89c4c171&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=d1379fd99e2cf37138d9ad7f00675ddf&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260731223501&Channel_ID=0116_2600034600-99000-201600010022872&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=36.134.67.183&SecurityKey=20260731223501&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51487056012324fe530dce397780bf43&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="📡卫视",江西卫视
-https://iptv.catvod.com/migu?id=783847495&token=29f645be57f35eddfa845b19573e3acd$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=783847495&token=d09b0835bd1f0655bbe464d76aff0b7c$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="📡卫视",江西卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260731111426&Channel_ID=0116_2600034600-99000-201600010058856&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=125.211.195.109&SecurityKey=20260731111426&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3f29a5d0e62b7cce0e32097a274dd423&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=d1379fd99e2cf37138d9ad7f00675ddf&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260731223430&Channel_ID=0116_2600034600-99000-201600010034935&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=36.134.67.183&SecurityKey=20260731223430&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d8dc3446ef646dc4c287f64fc7f37afc&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="📡卫视",吉林卫视
-https://iptv.catvod.com/migu?id=947472500&token=04b0e700a3ed34fbbe9c9fa1e808d23c$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=947472500&token=1682abc694ada0bf9438aa05c5bbb8d6$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="📡卫视",吉林卫视
 https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-https://iptv.catvod.com/migu?id=630291707&token=bd43063f381b0877c9aeb60ffb3fd039$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=630291707&token=445bc97d898bc77f3ab433ad26879a9b$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=1ae650fc812e75d0db6544b36482c740&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260731111308&Channel_ID=0116_2600034600-99000-201600010027339&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=125.211.195.109&SecurityKey=20260731111308&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6ef89a9cf62038c8e44d02a3948229f&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=d1379fd99e2cf37138d9ad7f00675ddf&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260731223327&Channel_ID=0116_2600034600-99000-201600010040676&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=36.137.48.31&SecurityKey=20260731223327&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ebf1ea5491466afab48f74827d8fb16&sv=10004&ct=android$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="📡卫视",辽宁卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/宁夏卫视.png" group-title="📡卫视",宁夏卫视
-https://iptv.catvod.com/migu?id=738910535&token=7c69259872c6f0ffcdf7b5a382251257$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=738910535&token=d1fe3a809b8f37bf9b1652c9f764ae69$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/青海卫视.png" group-title="📡卫视",青海卫视
-https://iptv.catvod.com/migu?id=947472506&token=0f0ad6b988ad07ceaadd4ad2178122ff$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=947472506&token=386278e0cd289aeee7341e331b90f983$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="📡卫视",山东卫视
 https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="📡卫视",山东卫视
@@ -156,16 +126,16 @@ https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encr
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="📡卫视",天津卫视
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/海南卫视.png" group-title="📡卫视",海南卫视
-https://iptv.catvod.com/migu?id=947472502&token=9f6be36d8ba2b9234a39525bb2b5f9c3$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=947472502&token=3d20a5b2297d7cd39359900ece3912cb$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/海峡卫视.png" group-title="📡卫视",海峡卫视
-https://iptv.catvod.com/migu?id=849119120&token=faf7e3babf4d61d486d57735d21f0a84$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=849119120&token=b0980ea52b03c1d20d08e8c9affbbcce$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="海峡卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/海峡卫视.png" group-title="📡卫视",海峡卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/兵团卫视.png" group-title="📡卫视",兵团卫视
-https://iptv.catvod.com/migu?id=956923145&token=3f3f933d55e82ca128205d182911bdf3$雷蒙影视•IPV4『线路1』
+https://iptv.catvod.com/migu?id=956923145&token=bbfa18b52f7501f6ca1c43932cf7d81e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="兵团卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/兵团卫视.png" group-title="📡卫视",兵团卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/农林卫视.png" group-title="📡卫视",农林卫视
 http://gxlive.snrtv.com/nlws-SD.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三沙卫视.png" group-title="📡卫视",三沙卫视
-https://iptv.catvod.com/migu?id=961023778&token=a3cf06184caac85273ccebdc0c97f8e7$雷蒙影视•IPV4
+https://iptv.catvod.com/migu?id=961023778&token=65c524ef496fdb7d2604f3aa231ddbd8$雷蒙影视•IPV4
