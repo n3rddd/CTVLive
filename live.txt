@@ -170,8 +170,7 @@ CCTV17,https://play.kankanlive.com/live/1698423272597921.m3u8$雷蒙影视•IPV
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$雷蒙影视•IPV4『线路1』
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8$雷蒙影视•IPV4『线路2』
 东南卫视,http://58.57.40.22:9901/tsfile/live/1037_1.m3u8$雷蒙影视•IPV4『线路3』
-东南卫视,http://hmfs.f3322.net:3388/hls/26/index.m3u8$雷蒙影视•IPV4『线路4』
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$雷蒙影视•IPV4『线路5』
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$雷蒙影视•IPV4『线路4』
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8$雷蒙影视•IPV4『线路1』
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$雷蒙影视•IPV4『线路2』
 深圳卫视,http://59.39.89.130:60901/tsfile/live/0125_11.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路3』
@@ -189,8 +188,7 @@ CCTV17,https://play.kankanlive.com/live/1698423272597921.m3u8$雷蒙影视•IPV
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8$雷蒙影视•IPV4『线路6』
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8$雷蒙影视•IPV4『线路1』
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8$雷蒙影视•IPV4『线路2』
-广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8$雷蒙影视•IPV4『线路3』
-广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
+广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路3』
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8$雷蒙影视•IPV4
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8$雷蒙影视•IPV4『线路1』
 甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8$雷蒙影视•IPV4『线路2』
@@ -298,7 +296,6 @@ CCTV17,https://play.kankanlive.com/live/1698423272597921.m3u8$雷蒙影视•IPV
 凤凰资讯,https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy$雷蒙影视•IPV4『线路2』
 凤凰香港,https://mgev.188766.xyz/?migutoken=31206284b8700dd6871da4a602998d5e&id=fhhk&pp=1$雷蒙影视•IPV4『线路1』
 凤凰香港,https://mgev.188766.xyz/?migutoken=85e8fef459b48c079bf6b77239f4a662&id=hk_fhhk&type=dy$雷蒙影视•IPV4『线路2』
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$雷蒙影视•IPV4
 翡翠台,https://mgev.188766.xyz/?migutoken=e027bbfbfe02bc36b72bd848539f8922&id=hk_fct&type=dy$雷蒙影视•IPV4
 TVB Plus,https://mgev.188766.xyz/?migutoken=eeb234e3f649f1d335e1e2c14e3f9438&id=hk_tvbp&type=dy$雷蒙影视•IPV4
 明珠台,https://mgev.188766.xyz/?migutoken=26c12108aa24cb805ba07dd2114be961&id=hk_mzt&type=dy$雷蒙影视•IPV4
