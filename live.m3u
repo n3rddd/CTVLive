@@ -82,9 +82,7 @@ http://120.76.248.139/live/bfgd/4200000246.m3u8$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
 http://61.136.172.236:9901/tsfile/live/0016_1.m3u8$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
-http://123.130.84.106:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
-http://58.57.40.22:9901/tsfile/live/1005_1.m3u8$雷蒙影视•IPV4『线路5』
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
 http://222.169.85.8:9901/tsfile/live/0006_1.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
@@ -112,15 +110,13 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
 http://112.46.85.60:8009/hls/8/index.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://123.130.84.106:8154/tsfile/live/0008_1.m3u8$雷蒙影视•IPV4『线路2』
+http://61.136.172.236:9901/tsfile/live/0008_1.m3u8$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://61.136.172.236:9901/tsfile/live/0008_1.m3u8$雷蒙影视•IPV4『线路3』
+http://gmxw.7766.org:808/hls/96/index.m3u8$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://gmxw.7766.org:808/hls/96/index.m3u8$雷蒙影视•IPV4『线路4』
+http://183.11.239.36:808/hls/96/index.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://183.11.239.36:808/hls/96/index.m3u8$雷蒙影视•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8$雷蒙影视•IPV4『线路6』
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
 http://112.46.85.60:8009/hls/509/index.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
@@ -274,11 +270,9 @@ http://58.57.40.22:9901/tsfile/live/1030_1.m3u8$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$雷蒙影视•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://hmfs.f3322.net:3388/hls/24/index.m3u8$雷蒙影视•IPV4『线路7』
+http://183.11.239.36:808/hls/114/index.m3u8$雷蒙影视•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://183.11.239.36:808/hls/114/index.m3u8$雷蒙影视•IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://iptv.huuc.edu.cn/hls/dfhd.m3u8$雷蒙影视•IPV4『线路9』
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8$雷蒙影视•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
@@ -348,13 +342,11 @@ http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="5" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="📡卫视",深圳卫视
 http://58.57.40.22:9901/tsfile/live/1036_1.m3u8$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="📡卫视",深圳卫视
-http://hmfs.f3322.net:3388/hls/25/index.m3u8$雷蒙影视•IPV4『线路6』
+http://183.11.239.36:808/hls/45/index.m3u8$雷蒙影视•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="📡卫视",深圳卫视
-http://183.11.239.36:808/hls/45/index.m3u8$雷蒙影视•IPV4『线路7』
+http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$雷蒙影视•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="📡卫视",深圳卫视
-http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8$雷蒙影视•IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="📡卫视",深圳卫视
-http://iptv.huuc.edu.cn/hls/szhd.m3u8$雷蒙影视•IPV4『线路9』
+http://iptv.huuc.edu.cn/hls/szhd.m3u8$雷蒙影视•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
 https://migu.188766.xyz/?migutoken=914935a59c89b66dab25252502e2a612&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
